@@ -1,0 +1,58 @@
+[
+    {
+        "LocalizationNameVariable": "@ITEMS_CRAFT_BUILDING",
+        "LocalizationDescriptionVariable": "@ITEMS_CRAFT_BUILDING_DESC",
+        "LocalizedNames": {
+            "EN-US": "Craft Buildings",
+            "RU-RU": "Станки для крафта",
+            "DE-DE": "Unterschlupf-Baukasten",
+            "FR-FR": "Kit de construction de repaire",
+            "PL-PL": "Zestaw do budowy Kryjówki",
+            "ES-ES": "Kit de construcción de escondites",
+            "PT-BR": "Kit de Construção de Esconderijo",
+            "ZH-CN": "藏身地堡建筑工具包",
+            "KO-KR": "은신처 건설키트"
+        },
+        "LocalizedDescriptions": {
+            "EN-US": "Craft Buildings",
+            "RU-RU": "Категория выбора по крафтовым станкам",
+            "DE-DE": "Mit einem Unterschlupf-Baukasten kannst du in den Outlands deinen Unterschlupf errichten.",
+            "FR-FR": "Les kits de construction de repaire sont utilisés pour placer des cachettes de guilde dans les Terres Lointaines.",
+            "PL-PL": "Zestawy do budowy Kryjówki służą do umieszczania Kryjówek Gildii na Rubieżach.",
+            "ES-ES": "Los kits de construcción de escondites se utilizan para colocar escondites de gremios en las Tierras Lejanas",
+            "PT-BR": "Kits de construção de Esconderijo são usados para colocar Esconderijos de Guilda em Terras Distantes.",
+            "ZH-CN": "在异域修建公会的藏身地堡时，可使用藏身地堡建筑工具包。",
+            "KO-KR": "아웃랜드의 길드 은신처에서 은신처 건설키트를 사용할 수 있습니다."
+        },
+        "Index": "1",
+        "UniqueName": "CRAFT_BUILDING"
+    },
+    {
+        "LocalizationNameVariable": "@ITEMS_CRAFT_SHOPS",
+        "LocalizationDescriptionVariable": "@ITEMS_CRAFT_SHOPS_DESC",
+        "LocalizedNames": {
+            "EN-US": "Craft by Shops",
+            "RU-RU": "Магазины",
+            "DE-DE": "Unterschlupf-Baukasten",
+            "FR-FR": "Kit de construction de repaire",
+            "PL-PL": "Zestaw do budowy Kryjówki",
+            "ES-ES": "Kit de construcción de escondites",
+            "PT-BR": "Kit de Construção de Esconderijo",
+            "ZH-CN": "藏身地堡建筑工具包",
+            "KO-KR": "은신처 건설키트"
+        },
+        "LocalizedDescriptions": {
+            "EN-US": "Craft by Shops",
+            "RU-RU": "Магазины",
+            "DE-DE": "Mit einem Unterschlupf-Baukasten kannst du in den Outlands deinen Unterschlupf errichten.",
+            "FR-FR": "Les kits de construction de repaire sont utilisés pour placer des cachettes de guilde dans les Terres Lointaines.",
+            "PL-PL": "Zestawy do budowy Kryjówki służą do umieszczania Kryjówek Gildii na Rubieżach.",
+            "ES-ES": "Los kits de construcción de escondites se utilizan para colocar escondites de gremios en las Tierras Lejanas",
+            "PT-BR": "Kits de construção de Esconderijo são usados para colocar Esconderijos de Guilda em Terras Distantes.",
+            "ZH-CN": "在异域修建公会的藏身地堡时，可使用藏身地堡建筑工具包。",
+            "KO-KR": "아웃랜드의 길드 은신처에서 은신처 건설키트를 사용할 수 있습니다."
+        },
+        "Index": "1",
+        "UniqueName": "SHOPS"
+    }
+]

@@ -11,7 +11,8 @@
         "outDir": "./dist",
         "baseUrl": "./",
         "jsx": "react",
-        "incremental": true
+        "incremental": true,
+        "resolveJsonModule": true,
     },
     "exclude": ["test/**"]
 }
