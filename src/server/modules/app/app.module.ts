@@ -31,7 +31,7 @@ import { AppService } from './app.service';
             autoLoadEntities: true,
         }),
         ServeStaticModule.forRoot({
-            rootPath: join(__dirname, '..', 'client'),
+            rootPath: join(__dirname, '../../..', 'client'),
         }),
         LocalizationModule,
         FilterModule,
