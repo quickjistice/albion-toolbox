@@ -1,20 +1,40 @@
 import * as React from 'react';
-import Button from '@material-ui/core/Button';
 
-interface Props {
-    name: string;
-}
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+} from 'react-router-dom'
+import { Main } from "./pages/main/main";
+import { Calculator } from "./pages/calculator/calculator";
+import { Navigation } from "./bloks/navigation/navigation";
+
+interface Props {}
 
 class App extends React.Component<Props> {
     render() {
-        const { name } = this.props;
         return (
-            <>
-                <h1>Hello {name}</h1>
-                <Button variant="contained">
-                    this is a material UI button
-                </Button>
-            </>
+            <Router>
+                <Navigation />
+                <Switch>
+                    <Route
+                        path="/calculator"
+                        render={() => (
+                            <React.Fragment>
+                                <Calculator />
+                            </React.Fragment>
+                        )}
+                    />
+                    <Route
+                        path="/"
+                        render={() => (
+                            <React.Fragment>
+                                <Main />
+                            </React.Fragment>
+                        )}
+                    />
+                </Switch>
+            </Router>
         );
     }
 }
