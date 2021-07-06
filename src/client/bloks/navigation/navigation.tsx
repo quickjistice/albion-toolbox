@@ -1,9 +1,10 @@
 import * as React from 'react';
 
-import { Link as RouterLink } from 'react-router-dom';
 import { AppBar, Button, InputBase, Toolbar } from "@material-ui/core";
 import { createStyles, fade, Theme, makeStyles } from '@material-ui/core/styles';
 import SearchIcon from '@material-ui/icons/Search';
+import { useDispatch } from "react-redux";
+import { push } from "connected-react-router";
 
 const useStyles = makeStyles((theme: Theme) =>
     createStyles({
@@ -64,15 +65,26 @@ const useStyles = makeStyles((theme: Theme) =>
 
 export const Navigation = () => {
     const classes = useStyles();
+    const dispatch = useDispatch()
 
     return (
         <div className={classes.root}>
             <AppBar position="static">
                 <Toolbar>
-                    <Button component={RouterLink} to="/" color="inherit">
+                    <Button
+                        color="inherit"
+                        onClick={() => {
+                            dispatch(push('/'));
+                        }}
+                    >
                         {'Main'}
                     </Button>
-                    <Button component={RouterLink} to="/calculator" color="inherit">
+                    <Button
+                        color="inherit"
+                        onClick={() => {
+                            dispatch(push('/calculator'));
+                        }}
+                    >
                         {'calculator'}
                     </Button>
                     <div className={classes.search}>
