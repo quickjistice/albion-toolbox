@@ -4,5 +4,7 @@ interface IFIlterMainCategoryDTOITem {
 }
 
 export interface IFilterDTO {
+    selected: { mainCategory: string };
     mainCategory: IFIlterMainCategoryDTOITem[];
+    tmp: any;
 }

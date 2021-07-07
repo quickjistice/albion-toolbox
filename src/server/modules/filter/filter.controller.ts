@@ -1,4 +1,5 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, Req } from '@nestjs/common';
+import { Request } from 'express';
 
 import { IFilterDTO } from './dto/filter.dto';
 import { FilterService } from './filter.service';
@@ -8,7 +9,10 @@ export class FilterController {
     constructor(private readonly filterService: FilterService) {}
 
     @Get('/')
-    getFilter(): IFilterDTO {
-        return this.filterService.getFilter();
+    async getFilter(@Req() req: Request): Promise<IFilterDTO> {
+        const { m } = req.query;
+        const mainCategory = m as string;
+
+        return await this.filterService.getFilter({ mainCategory });
     }
 }
