@@ -1,31 +1,35 @@
-import { applyMiddleware, createStore, combineReducers } from '@reduxjs/toolkit'
-import { connectRouter, routerMiddleware } from 'connected-react-router'
+import { applyMiddleware, createStore } from '@reduxjs/toolkit'
+import { routerMiddleware } from 'connected-react-router'
 import { createBrowserHistory } from "history";
 import { composeWithDevTools } from 'redux-devtools-extension'
-import craftFilter from './bloks/craftFilter/craftFilterSlice';
+import { createEpicMiddleware } from "redux-observable";
+import rootReducer from "./reducers/index";
+import rootEpics from "./epics/index";
 
-const createRootReducer = (history) => combineReducers({
-    router: connectRouter(history),
-    craftFilter: craftFilter
-})
+const epicMiddleware = createEpicMiddleware();
 
 export const history = createBrowserHistory()
 
 export default function configureStore(preloadedState) {
-  return createStore(
-      createRootReducer(history),
-      preloadedState,
-      composeWithDevTools(
-          applyMiddleware(
-              routerMiddleware(history),
-          ),
-      ),
-  )
+    const store = createStore(
+        rootReducer(history),
+        preloadedState,
+        composeWithDevTools(
+            applyMiddleware(
+                routerMiddleware(history),
+            ),
+            applyMiddleware(epicMiddleware),
+        ),
+    );
+
+    epicMiddleware.run(rootEpics);
+
+    return store;
 }
 
 export const store = configureStore({
   reducer: {}
-})
+});
 
 // Infer the `RootState` and `AppDispatch` types from the store itself
 export type RootState = ReturnType<typeof store.getState>

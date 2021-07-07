@@ -12,7 +12,7 @@ export const slice = createSlice({
     },
 });
 
-export const { setCategory } = slice.actions;
+export const setCategory = slice.actions.setCategory;
 
 export const selectCategory = state => state.craftFilter.category;
 
