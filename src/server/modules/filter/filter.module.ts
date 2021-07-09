@@ -1,11 +1,11 @@
 import { Module } from '@nestjs/common';
+
 import { FilterService } from './filter.service';
 import { FilterController } from './filter.controller';
-
-import { BuildingsModule } from 'src/server/providers/building/buildings.module';
+import { BuildingModule } from '../building/building.module';
 
 @Module({
-    imports: [BuildingsModule],
+    imports: [BuildingModule],
     controllers: [FilterController],
     providers: [FilterService],
 })

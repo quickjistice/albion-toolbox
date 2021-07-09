@@ -1,0 +1,4944 @@
+[
+  {
+    "uniquename": "T8_FORGE",
+    "category": "CRAFT_ITEMS",
+    "favoritedish": "T6_MEAL_STEW",
+    "items": [
+      {
+        "uniquename": "T1_MAIN_SWORD"
+      },
+      {
+        "uniquename": "T1_OFF_SHIELD"
+      },
+      {
+        "uniquename": "T2_MAIN_SWORD"
+      },
+      {
+        "uniquename": "T2_OFF_SHIELD"
+      },
+      {
+        "uniquename": "T3_MAIN_SWORD"
+      },
+      {
+        "uniquename": "T3_MAIN_AXE"
+      },
+      {
+        "uniquename": "T3_MAIN_MACE"
+      },
+      {
+        "uniquename": "T3_2H_CROSSBOW"
+      },
+      {
+        "uniquename": "T3_MAIN_HAMMER"
+      },
+      {
+        "uniquename": "T3_OFF_SHIELD"
+      },
+      {
+        "uniquename": "T4_MAIN_SWORD"
+      },
+      {
+        "uniquename": "T4_2H_CLAYMORE"
+      },
+      {
+        "uniquename": "T4_2H_DUALSWORD"
+      },
+      {
+        "uniquename": "T4_MAIN_AXE"
+      },
+      {
+        "uniquename": "T4_2H_AXE"
+      },
+      {
+        "uniquename": "T4_2H_HALBERD"
+      },
+      {
+        "uniquename": "T4_MAIN_MACE"
+      },
+      {
+        "uniquename": "T4_2H_MACE"
+      },
+      {
+        "uniquename": "T4_2H_FLAIL"
+      },
+      {
+        "uniquename": "T4_MAIN_HAMMER"
+      },
+      {
+        "uniquename": "T4_2H_POLEHAMMER"
+      },
+      {
+        "uniquename": "T4_2H_HAMMER"
+      },
+      {
+        "uniquename": "T4_2H_CROSSBOW"
+      },
+      {
+        "uniquename": "T4_2H_CROSSBOWLARGE"
+      },
+      {
+        "uniquename": "T4_MAIN_1HCROSSBOW"
+      },
+      {
+        "uniquename": "T4_OFF_SHIELD"
+      },
+      {
+        "uniquename": "T4_2H_REPEATINGCROSSBOW_UNDEAD"
+      },
+      {
+        "uniquename": "T4_2H_HALBERD_MORGANA"
+      },
+      {
+        "uniquename": "T4_MAIN_SCIMITAR_MORGANA"
+      },
+      {
+        "uniquename": "T4_2H_HAMMER_UNDEAD"
+      },
+      {
+        "uniquename": "T4_OFF_TOWERSHIELD_UNDEAD"
+      },
+      {
+        "uniquename": "T4_MAIN_ROCKMACE_KEEPER"
+      },
+      {
+        "uniquename": "T4_2H_SCYTHE_HELL"
+      },
+      {
+        "uniquename": "T4_2H_DUALCROSSBOW_HELL"
+      },
+      {
+        "uniquename": "T4_2H_CLEAVER_HELL"
+      },
+      {
+        "uniquename": "T4_2H_DUALHAMMER_HELL"
+      },
+      {
+        "uniquename": "T4_MAIN_MACE_HELL"
+      },
+      {
+        "uniquename": "T4_OFF_SHIELD_HELL"
+      },
+      {
+        "uniquename": "T4_2H_DUALSCIMITAR_UNDEAD"
+      },
+      {
+        "uniquename": "T4_2H_DUALAXE_KEEPER"
+      },
+      {
+        "uniquename": "T4_2H_MACE_MORGANA"
+      },
+      {
+        "uniquename": "T4_2H_RAM_KEEPER"
+      },
+      {
+        "uniquename": "T4_2H_CROSSBOWLARGE_MORGANA"
+      },
+      {
+        "uniquename": "T4_OFF_SPIKEDSHIELD_MORGANA"
+      },
+      {
+        "uniquename": "T4_2H_AXE_AVALON"
+      },
+      {
+        "uniquename": "T4_2H_CLAYMORE_AVALON"
+      },
+      {
+        "uniquename": "T4_2H_HAMMER_AVALON"
+      },
+      {
+        "uniquename": "T4_2H_DUALMACE_AVALON"
+      },
+      {
+        "uniquename": "T4_2H_CROSSBOW_CANNON_AVALON"
+      },
+      {
+        "uniquename": "T4_OFF_SHIELD_AVALON"
+      },
+      {
+        "uniquename": "T5_MAIN_SWORD"
+      },
+      {
+        "uniquename": "T5_2H_CLAYMORE"
+      },
+      {
+        "uniquename": "T5_2H_DUALSWORD"
+      },
+      {
+        "uniquename": "T5_MAIN_AXE"
+      },
+      {
+        "uniquename": "T5_2H_AXE"
+      },
+      {
+        "uniquename": "T5_2H_HALBERD"
+      },
+      {
+        "uniquename": "T5_MAIN_MACE"
+      },
+      {
+        "uniquename": "T5_2H_MACE"
+      },
+      {
+        "uniquename": "T5_2H_FLAIL"
+      },
+      {
+        "uniquename": "T5_MAIN_HAMMER"
+      },
+      {
+        "uniquename": "T5_2H_POLEHAMMER"
+      },
+      {
+        "uniquename": "T5_2H_HAMMER"
+      },
+      {
+        "uniquename": "T5_2H_CROSSBOW"
+      },
+      {
+        "uniquename": "T5_2H_CROSSBOWLARGE"
+      },
+      {
+        "uniquename": "T5_MAIN_1HCROSSBOW"
+      },
+      {
+        "uniquename": "T5_OFF_SHIELD"
+      },
+      {
+        "uniquename": "T5_2H_REPEATINGCROSSBOW_UNDEAD"
+      },
+      {
+        "uniquename": "T5_2H_HALBERD_MORGANA"
+      },
+      {
+        "uniquename": "T5_MAIN_SCIMITAR_MORGANA"
+      },
+      {
+        "uniquename": "T5_2H_HAMMER_UNDEAD"
+      },
+      {
+        "uniquename": "T5_OFF_TOWERSHIELD_UNDEAD"
+      },
+      {
+        "uniquename": "T5_MAIN_ROCKMACE_KEEPER"
+      },
+      {
+        "uniquename": "T5_2H_SCYTHE_HELL"
+      },
+      {
+        "uniquename": "T5_2H_DUALCROSSBOW_HELL"
+      },
+      {
+        "uniquename": "T5_2H_CLEAVER_HELL"
+      },
+      {
+        "uniquename": "T5_2H_DUALHAMMER_HELL"
+      },
+      {
+        "uniquename": "T5_MAIN_MACE_HELL"
+      },
+      {
+        "uniquename": "T5_OFF_SHIELD_HELL"
+      },
+      {
+        "uniquename": "T5_2H_DUALSCIMITAR_UNDEAD"
+      },
+      {
+        "uniquename": "T5_2H_DUALAXE_KEEPER"
+      },
+      {
+        "uniquename": "T5_2H_MACE_MORGANA"
+      },
+      {
+        "uniquename": "T5_2H_RAM_KEEPER"
+      },
+      {
+        "uniquename": "T5_2H_CROSSBOWLARGE_MORGANA"
+      },
+      {
+        "uniquename": "T5_OFF_SPIKEDSHIELD_MORGANA"
+      },
+      {
+        "uniquename": "T5_2H_AXE_AVALON"
+      },
+      {
+        "uniquename": "T5_2H_CLAYMORE_AVALON"
+      },
+      {
+        "uniquename": "T5_2H_HAMMER_AVALON"
+      },
+      {
+        "uniquename": "T5_2H_DUALMACE_AVALON"
+      },
+      {
+        "uniquename": "T5_2H_CROSSBOW_CANNON_AVALON"
+      },
+      {
+        "uniquename": "T5_OFF_SHIELD_AVALON"
+      },
+      {
+        "uniquename": "T6_MAIN_SWORD"
+      },
+      {
+        "uniquename": "T6_2H_CLAYMORE"
+      },
+      {
+        "uniquename": "T6_2H_DUALSWORD"
+      },
+      {
+        "uniquename": "T6_MAIN_AXE"
+      },
+      {
+        "uniquename": "T6_2H_AXE"
+      },
+      {
+        "uniquename": "T6_2H_HALBERD"
+      },
+      {
+        "uniquename": "T6_MAIN_MACE"
+      },
+      {
+        "uniquename": "T6_2H_MACE"
+      },
+      {
+        "uniquename": "T6_2H_FLAIL"
+      },
+      {
+        "uniquename": "T6_MAIN_HAMMER"
+      },
+      {
+        "uniquename": "T6_2H_POLEHAMMER"
+      },
+      {
+        "uniquename": "T6_2H_HAMMER"
+      },
+      {
+        "uniquename": "T6_2H_CROSSBOW"
+      },
+      {
+        "uniquename": "T6_2H_CROSSBOWLARGE"
+      },
+      {
+        "uniquename": "T6_MAIN_1HCROSSBOW"
+      },
+      {
+        "uniquename": "T6_OFF_SHIELD"
+      },
+      {
+        "uniquename": "T6_2H_REPEATINGCROSSBOW_UNDEAD"
+      },
+      {
+        "uniquename": "T6_2H_HALBERD_MORGANA"
+      },
+      {
+        "uniquename": "T6_MAIN_SCIMITAR_MORGANA"
+      },
+      {
+        "uniquename": "T6_2H_HAMMER_UNDEAD"
+      },
+      {
+        "uniquename": "T6_OFF_TOWERSHIELD_UNDEAD"
+      },
+      {
+        "uniquename": "T6_MAIN_ROCKMACE_KEEPER"
+      },
+      {
+        "uniquename": "T6_2H_SCYTHE_HELL"
+      },
+      {
+        "uniquename": "T6_2H_DUALCROSSBOW_HELL"
+      },
+      {
+        "uniquename": "T6_2H_CLEAVER_HELL"
+      },
+      {
+        "uniquename": "T6_2H_DUALHAMMER_HELL"
+      },
+      {
+        "uniquename": "T6_MAIN_MACE_HELL"
+      },
+      {
+        "uniquename": "T6_OFF_SHIELD_HELL"
+      },
+      {
+        "uniquename": "T6_2H_DUALSCIMITAR_UNDEAD"
+      },
+      {
+        "uniquename": "T6_2H_DUALAXE_KEEPER"
+      },
+      {
+        "uniquename": "T6_2H_MACE_MORGANA"
+      },
+      {
+        "uniquename": "T6_2H_RAM_KEEPER"
+      },
+      {
+        "uniquename": "T6_2H_CROSSBOWLARGE_MORGANA"
+      },
+      {
+        "uniquename": "T6_OFF_SPIKEDSHIELD_MORGANA"
+      },
+      {
+        "uniquename": "T6_2H_AXE_AVALON"
+      },
+      {
+        "uniquename": "T6_2H_CLAYMORE_AVALON"
+      },
+      {
+        "uniquename": "T6_2H_HAMMER_AVALON"
+      },
+      {
+        "uniquename": "T6_2H_DUALMACE_AVALON"
+      },
+      {
+        "uniquename": "T6_2H_CROSSBOW_CANNON_AVALON"
+      },
+      {
+        "uniquename": "T6_OFF_SHIELD_AVALON"
+      },
+      {
+        "uniquename": "T7_MAIN_SWORD"
+      },
+      {
+        "uniquename": "T7_2H_CLAYMORE"
+      },
+      {
+        "uniquename": "T7_2H_DUALSWORD"
+      },
+      {
+        "uniquename": "T7_MAIN_AXE"
+      },
+      {
+        "uniquename": "T7_2H_AXE"
+      },
+      {
+        "uniquename": "T7_2H_HALBERD"
+      },
+      {
+        "uniquename": "T7_MAIN_MACE"
+      },
+      {
+        "uniquename": "T7_2H_MACE"
+      },
+      {
+        "uniquename": "T7_2H_FLAIL"
+      },
+      {
+        "uniquename": "T7_MAIN_HAMMER"
+      },
+      {
+        "uniquename": "T7_2H_POLEHAMMER"
+      },
+      {
+        "uniquename": "T7_2H_HAMMER"
+      },
+      {
+        "uniquename": "T7_2H_CROSSBOW"
+      },
+      {
+        "uniquename": "T7_2H_CROSSBOWLARGE"
+      },
+      {
+        "uniquename": "T7_MAIN_1HCROSSBOW"
+      },
+      {
+        "uniquename": "T7_OFF_SHIELD"
+      },
+      {
+        "uniquename": "T7_2H_REPEATINGCROSSBOW_UNDEAD"
+      },
+      {
+        "uniquename": "T7_2H_HALBERD_MORGANA"
+      },
+      {
+        "uniquename": "T7_MAIN_SCIMITAR_MORGANA"
+      },
+      {
+        "uniquename": "T7_2H_HAMMER_UNDEAD"
+      },
+      {
+        "uniquename": "T7_OFF_TOWERSHIELD_UNDEAD"
+      },
+      {
+        "uniquename": "T7_MAIN_ROCKMACE_KEEPER"
+      },
+      {
+        "uniquename": "T7_2H_SCYTHE_HELL"
+      },
+      {
+        "uniquename": "T7_2H_DUALCROSSBOW_HELL"
+      },
+      {
+        "uniquename": "T7_2H_CLEAVER_HELL"
+      },
+      {
+        "uniquename": "T7_2H_DUALHAMMER_HELL"
+      },
+      {
+        "uniquename": "T7_MAIN_MACE_HELL"
+      },
+      {
+        "uniquename": "T7_OFF_SHIELD_HELL"
+      },
+      {
+        "uniquename": "T7_2H_DUALSCIMITAR_UNDEAD"
+      },
+      {
+        "uniquename": "T7_2H_DUALAXE_KEEPER"
+      },
+      {
+        "uniquename": "T7_2H_MACE_MORGANA"
+      },
+      {
+        "uniquename": "T7_2H_RAM_KEEPER"
+      },
+      {
+        "uniquename": "T7_2H_CROSSBOWLARGE_MORGANA"
+      },
+      {
+        "uniquename": "T7_OFF_SPIKEDSHIELD_MORGANA"
+      },
+      {
+        "uniquename": "T7_2H_AXE_AVALON"
+      },
+      {
+        "uniquename": "T7_2H_CLAYMORE_AVALON"
+      },
+      {
+        "uniquename": "T7_2H_HAMMER_AVALON"
+      },
+      {
+        "uniquename": "T7_2H_DUALMACE_AVALON"
+      },
+      {
+        "uniquename": "T7_2H_CROSSBOW_CANNON_AVALON"
+      },
+      {
+        "uniquename": "T7_OFF_SHIELD_AVALON"
+      },
+      {
+        "uniquename": "T8_MAIN_SWORD"
+      },
+      {
+        "uniquename": "T8_2H_CLAYMORE"
+      },
+      {
+        "uniquename": "T8_2H_DUALSWORD"
+      },
+      {
+        "uniquename": "T8_MAIN_AXE"
+      },
+      {
+        "uniquename": "T8_2H_AXE"
+      },
+      {
+        "uniquename": "T8_2H_HALBERD"
+      },
+      {
+        "uniquename": "T8_MAIN_MACE"
+      },
+      {
+        "uniquename": "T8_2H_MACE"
+      },
+      {
+        "uniquename": "T8_2H_FLAIL"
+      },
+      {
+        "uniquename": "T8_MAIN_HAMMER"
+      },
+      {
+        "uniquename": "T8_2H_POLEHAMMER"
+      },
+      {
+        "uniquename": "T8_2H_HAMMER"
+      },
+      {
+        "uniquename": "T8_2H_CROSSBOW"
+      },
+      {
+        "uniquename": "T8_2H_CROSSBOWLARGE"
+      },
+      {
+        "uniquename": "T8_MAIN_1HCROSSBOW"
+      },
+      {
+        "uniquename": "T8_OFF_SHIELD"
+      },
+      {
+        "uniquename": "T8_2H_REPEATINGCROSSBOW_UNDEAD"
+      },
+      {
+        "uniquename": "T8_2H_HALBERD_MORGANA"
+      },
+      {
+        "uniquename": "T8_MAIN_SCIMITAR_MORGANA"
+      },
+      {
+        "uniquename": "T8_2H_HAMMER_UNDEAD"
+      },
+      {
+        "uniquename": "T8_OFF_TOWERSHIELD_UNDEAD"
+      },
+      {
+        "uniquename": "T8_MAIN_ROCKMACE_KEEPER"
+      },
+      {
+        "uniquename": "T8_2H_SCYTHE_HELL"
+      },
+      {
+        "uniquename": "T8_2H_DUALCROSSBOW_HELL"
+      },
+      {
+        "uniquename": "T8_2H_CLEAVER_HELL"
+      },
+      {
+        "uniquename": "T8_2H_DUALHAMMER_HELL"
+      },
+      {
+        "uniquename": "T8_MAIN_MACE_HELL"
+      },
+      {
+        "uniquename": "T8_OFF_SHIELD_HELL"
+      },
+      {
+        "uniquename": "T8_2H_DUALSCIMITAR_UNDEAD"
+      },
+      {
+        "uniquename": "T8_2H_DUALAXE_KEEPER"
+      },
+      {
+        "uniquename": "T8_2H_MACE_MORGANA"
+      },
+      {
+        "uniquename": "T8_2H_RAM_KEEPER"
+      },
+      {
+        "uniquename": "T8_2H_CROSSBOWLARGE_MORGANA"
+      },
+      {
+        "uniquename": "T8_OFF_SPIKEDSHIELD_MORGANA"
+      },
+      {
+        "uniquename": "T8_2H_AXE_AVALON"
+      },
+      {
+        "uniquename": "T8_2H_CLAYMORE_AVALON"
+      },
+      {
+        "uniquename": "T8_2H_HAMMER_AVALON"
+      },
+      {
+        "uniquename": "T8_2H_DUALMACE_AVALON"
+      },
+      {
+        "uniquename": "T8_2H_CROSSBOW_CANNON_AVALON"
+      },
+      {
+        "uniquename": "T8_OFF_SHIELD_AVALON"
+      },
+      {
+        "uniquename": "T2_HEAD_PLATE_SET1"
+      },
+      {
+        "uniquename": "T2_ARMOR_PLATE_SET1"
+      },
+      {
+        "uniquename": "T2_SHOES_PLATE_SET1"
+      },
+      {
+        "uniquename": "T3_HEAD_PLATE_SET1"
+      },
+      {
+        "uniquename": "T3_ARMOR_PLATE_SET1"
+      },
+      {
+        "uniquename": "T3_SHOES_PLATE_SET1"
+      },
+      {
+        "uniquename": "T4_HEAD_PLATE_SET2"
+      },
+      {
+        "uniquename": "T4_ARMOR_PLATE_SET2"
+      },
+      {
+        "uniquename": "T4_SHOES_PLATE_SET2"
+      },
+      {
+        "uniquename": "T4_HEAD_PLATE_SET3"
+      },
+      {
+        "uniquename": "T4_ARMOR_PLATE_SET3"
+      },
+      {
+        "uniquename": "T4_SHOES_PLATE_SET3"
+      },
+      {
+        "uniquename": "T4_HEAD_PLATE_SET1"
+      },
+      {
+        "uniquename": "T4_ARMOR_PLATE_SET1"
+      },
+      {
+        "uniquename": "T4_SHOES_PLATE_SET1"
+      },
+      {
+        "uniquename": "T4_HEAD_PLATE_ROYAL"
+      },
+      {
+        "uniquename": "T4_ARMOR_PLATE_ROYAL"
+      },
+      {
+        "uniquename": "T4_SHOES_PLATE_ROYAL"
+      },
+      {
+        "uniquename": "T4_HEAD_PLATE_UNDEAD"
+      },
+      {
+        "uniquename": "T4_ARMOR_PLATE_UNDEAD"
+      },
+      {
+        "uniquename": "T4_SHOES_PLATE_UNDEAD"
+      },
+      {
+        "uniquename": "T4_ARMOR_PLATE_HELL"
+      },
+      {
+        "uniquename": "T4_HEAD_PLATE_HELL"
+      },
+      {
+        "uniquename": "T4_SHOES_PLATE_HELL"
+      },
+      {
+        "uniquename": "T4_HEAD_PLATE_KEEPER"
+      },
+      {
+        "uniquename": "T4_ARMOR_PLATE_KEEPER"
+      },
+      {
+        "uniquename": "T4_SHOES_PLATE_KEEPER"
+      },
+      {
+        "uniquename": "T4_HEAD_PLATE_AVALON"
+      },
+      {
+        "uniquename": "T4_ARMOR_PLATE_AVALON"
+      },
+      {
+        "uniquename": "T4_SHOES_PLATE_AVALON"
+      },
+      {
+        "uniquename": "T5_HEAD_PLATE_SET2"
+      },
+      {
+        "uniquename": "T5_ARMOR_PLATE_SET2"
+      },
+      {
+        "uniquename": "T5_SHOES_PLATE_SET2"
+      },
+      {
+        "uniquename": "T5_HEAD_PLATE_SET3"
+      },
+      {
+        "uniquename": "T5_ARMOR_PLATE_SET3"
+      },
+      {
+        "uniquename": "T5_SHOES_PLATE_SET3"
+      },
+      {
+        "uniquename": "T5_HEAD_PLATE_SET1"
+      },
+      {
+        "uniquename": "T5_ARMOR_PLATE_SET1"
+      },
+      {
+        "uniquename": "T5_SHOES_PLATE_SET1"
+      },
+      {
+        "uniquename": "T5_HEAD_PLATE_ROYAL"
+      },
+      {
+        "uniquename": "T5_ARMOR_PLATE_ROYAL"
+      },
+      {
+        "uniquename": "T5_SHOES_PLATE_ROYAL"
+      },
+      {
+        "uniquename": "T5_HEAD_PLATE_UNDEAD"
+      },
+      {
+        "uniquename": "T5_ARMOR_PLATE_UNDEAD"
+      },
+      {
+        "uniquename": "T5_SHOES_PLATE_UNDEAD"
+      },
+      {
+        "uniquename": "T5_ARMOR_PLATE_HELL"
+      },
+      {
+        "uniquename": "T5_HEAD_PLATE_HELL"
+      },
+      {
+        "uniquename": "T5_SHOES_PLATE_HELL"
+      },
+      {
+        "uniquename": "T5_HEAD_PLATE_KEEPER"
+      },
+      {
+        "uniquename": "T5_ARMOR_PLATE_KEEPER"
+      },
+      {
+        "uniquename": "T5_SHOES_PLATE_KEEPER"
+      },
+      {
+        "uniquename": "T5_HEAD_PLATE_AVALON"
+      },
+      {
+        "uniquename": "T5_ARMOR_PLATE_AVALON"
+      },
+      {
+        "uniquename": "T5_SHOES_PLATE_AVALON"
+      },
+      {
+        "uniquename": "T6_HEAD_PLATE_SET2"
+      },
+      {
+        "uniquename": "T6_ARMOR_PLATE_SET2"
+      },
+      {
+        "uniquename": "T6_SHOES_PLATE_SET2"
+      },
+      {
+        "uniquename": "T6_HEAD_PLATE_SET3"
+      },
+      {
+        "uniquename": "T6_ARMOR_PLATE_SET3"
+      },
+      {
+        "uniquename": "T6_SHOES_PLATE_SET3"
+      },
+      {
+        "uniquename": "T6_HEAD_PLATE_SET1"
+      },
+      {
+        "uniquename": "T6_ARMOR_PLATE_SET1"
+      },
+      {
+        "uniquename": "T6_SHOES_PLATE_SET1"
+      },
+      {
+        "uniquename": "T6_HEAD_PLATE_ROYAL"
+      },
+      {
+        "uniquename": "T6_ARMOR_PLATE_ROYAL"
+      },
+      {
+        "uniquename": "T6_SHOES_PLATE_ROYAL"
+      },
+      {
+        "uniquename": "T6_HEAD_PLATE_UNDEAD"
+      },
+      {
+        "uniquename": "T6_ARMOR_PLATE_UNDEAD"
+      },
+      {
+        "uniquename": "T6_SHOES_PLATE_UNDEAD"
+      },
+      {
+        "uniquename": "T6_ARMOR_PLATE_HELL"
+      },
+      {
+        "uniquename": "T6_HEAD_PLATE_HELL"
+      },
+      {
+        "uniquename": "T6_SHOES_PLATE_HELL"
+      },
+      {
+        "uniquename": "T6_HEAD_PLATE_KEEPER"
+      },
+      {
+        "uniquename": "T6_ARMOR_PLATE_KEEPER"
+      },
+      {
+        "uniquename": "T6_SHOES_PLATE_KEEPER"
+      },
+      {
+        "uniquename": "T6_HEAD_PLATE_AVALON"
+      },
+      {
+        "uniquename": "T6_ARMOR_PLATE_AVALON"
+      },
+      {
+        "uniquename": "T6_SHOES_PLATE_AVALON"
+      },
+      {
+        "uniquename": "T7_HEAD_PLATE_SET2"
+      },
+      {
+        "uniquename": "T7_ARMOR_PLATE_SET2"
+      },
+      {
+        "uniquename": "T7_SHOES_PLATE_SET2"
+      },
+      {
+        "uniquename": "T7_HEAD_PLATE_SET3"
+      },
+      {
+        "uniquename": "T7_ARMOR_PLATE_SET3"
+      },
+      {
+        "uniquename": "T7_SHOES_PLATE_SET3"
+      },
+      {
+        "uniquename": "T7_HEAD_PLATE_SET1"
+      },
+      {
+        "uniquename": "T7_ARMOR_PLATE_SET1"
+      },
+      {
+        "uniquename": "T7_SHOES_PLATE_SET1"
+      },
+      {
+        "uniquename": "T7_HEAD_PLATE_ROYAL"
+      },
+      {
+        "uniquename": "T7_ARMOR_PLATE_ROYAL"
+      },
+      {
+        "uniquename": "T7_SHOES_PLATE_ROYAL"
+      },
+      {
+        "uniquename": "T7_HEAD_PLATE_UNDEAD"
+      },
+      {
+        "uniquename": "T7_ARMOR_PLATE_UNDEAD"
+      },
+      {
+        "uniquename": "T7_SHOES_PLATE_UNDEAD"
+      },
+      {
+        "uniquename": "T7_ARMOR_PLATE_HELL"
+      },
+      {
+        "uniquename": "T7_HEAD_PLATE_HELL"
+      },
+      {
+        "uniquename": "T7_SHOES_PLATE_HELL"
+      },
+      {
+        "uniquename": "T7_HEAD_PLATE_KEEPER"
+      },
+      {
+        "uniquename": "T7_ARMOR_PLATE_KEEPER"
+      },
+      {
+        "uniquename": "T7_SHOES_PLATE_KEEPER"
+      },
+      {
+        "uniquename": "T7_HEAD_PLATE_AVALON"
+      },
+      {
+        "uniquename": "T7_ARMOR_PLATE_AVALON"
+      },
+      {
+        "uniquename": "T7_SHOES_PLATE_AVALON"
+      },
+      {
+        "uniquename": "T8_HEAD_PLATE_SET2"
+      },
+      {
+        "uniquename": "T8_ARMOR_PLATE_SET2"
+      },
+      {
+        "uniquename": "T8_SHOES_PLATE_SET2"
+      },
+      {
+        "uniquename": "T8_HEAD_PLATE_SET3"
+      },
+      {
+        "uniquename": "T8_ARMOR_PLATE_SET3"
+      },
+      {
+        "uniquename": "T8_SHOES_PLATE_SET3"
+      },
+      {
+        "uniquename": "T8_HEAD_PLATE_SET1"
+      },
+      {
+        "uniquename": "T8_ARMOR_PLATE_SET1"
+      },
+      {
+        "uniquename": "T8_SHOES_PLATE_SET1"
+      },
+      {
+        "uniquename": "T8_HEAD_PLATE_ROYAL"
+      },
+      {
+        "uniquename": "T8_ARMOR_PLATE_ROYAL"
+      },
+      {
+        "uniquename": "T8_SHOES_PLATE_ROYAL"
+      },
+      {
+        "uniquename": "T8_HEAD_PLATE_UNDEAD"
+      },
+      {
+        "uniquename": "T8_ARMOR_PLATE_UNDEAD"
+      },
+      {
+        "uniquename": "T8_SHOES_PLATE_UNDEAD"
+      },
+      {
+        "uniquename": "T8_ARMOR_PLATE_HELL"
+      },
+      {
+        "uniquename": "T8_HEAD_PLATE_HELL"
+      },
+      {
+        "uniquename": "T8_SHOES_PLATE_HELL"
+      },
+      {
+        "uniquename": "T8_HEAD_PLATE_KEEPER"
+      },
+      {
+        "uniquename": "T8_ARMOR_PLATE_KEEPER"
+      },
+      {
+        "uniquename": "T8_SHOES_PLATE_KEEPER"
+      },
+      {
+        "uniquename": "T8_HEAD_PLATE_AVALON"
+      },
+      {
+        "uniquename": "T8_ARMOR_PLATE_AVALON"
+      },
+      {
+        "uniquename": "T8_SHOES_PLATE_AVALON"
+      }
+    ]
+  },
+  {
+    "uniquename": "T8_HUNTERSLODGE",
+    "category": "CRAFT_ITEMS",
+    "favoritedish": "T6_MEAL_SALAD",
+    "items": [
+      {
+        "uniquename": "T2_2H_BOW"
+      },
+      {
+        "uniquename": "T3_2H_BOW"
+      },
+      {
+        "uniquename": "T3_MAIN_SPEAR"
+      },
+      {
+        "uniquename": "T3_MAIN_NATURESTAFF"
+      },
+      {
+        "uniquename": "T3_MAIN_DAGGER"
+      },
+      {
+        "uniquename": "T3_2H_QUARTERSTAFF"
+      },
+      {
+        "uniquename": "T3_OFF_TORCH"
+      },
+      {
+        "uniquename": "T4_2H_BOW"
+      },
+      {
+        "uniquename": "T4_2H_WARBOW"
+      },
+      {
+        "uniquename": "T4_2H_LONGBOW"
+      },
+      {
+        "uniquename": "T4_MAIN_SPEAR"
+      },
+      {
+        "uniquename": "T4_2H_SPEAR"
+      },
+      {
+        "uniquename": "T4_2H_GLAIVE"
+      },
+      {
+        "uniquename": "T4_MAIN_DAGGER"
+      },
+      {
+        "uniquename": "T4_2H_DAGGERPAIR"
+      },
+      {
+        "uniquename": "T4_2H_CLAWPAIR"
+      },
+      {
+        "uniquename": "T4_2H_QUARTERSTAFF"
+      },
+      {
+        "uniquename": "T4_2H_IRONCLADEDSTAFF"
+      },
+      {
+        "uniquename": "T4_2H_DOUBLEBLADEDSTAFF"
+      },
+      {
+        "uniquename": "T4_MAIN_NATURESTAFF"
+      },
+      {
+        "uniquename": "T4_2H_NATURESTAFF"
+      },
+      {
+        "uniquename": "T4_2H_WILDSTAFF"
+      },
+      {
+        "uniquename": "T4_OFF_TORCH"
+      },
+      {
+        "uniquename": "T4_2H_LONGBOW_UNDEAD"
+      },
+      {
+        "uniquename": "T4_MAIN_RAPIER_MORGANA"
+      },
+      {
+        "uniquename": "T4_2H_COMBATSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T4_MAIN_SPEAR_KEEPER"
+      },
+      {
+        "uniquename": "T4_MAIN_NATURESTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T4_OFF_HORN_KEEPER"
+      },
+      {
+        "uniquename": "T4_2H_IRONGAUNTLETS_HELL"
+      },
+      {
+        "uniquename": "T4_2H_TWINSCYTHE_HELL"
+      },
+      {
+        "uniquename": "T4_2H_HARPOON_HELL"
+      },
+      {
+        "uniquename": "T4_2H_BOW_HELL"
+      },
+      {
+        "uniquename": "T4_2H_NATURESTAFF_HELL"
+      },
+      {
+        "uniquename": "T4_OFF_JESTERCANE_HELL"
+      },
+      {
+        "uniquename": "T4_2H_BOW_KEEPER"
+      },
+      {
+        "uniquename": "T4_2H_TRIDENT_UNDEAD"
+      },
+      {
+        "uniquename": "T4_2H_NATURESTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T4_2H_DUALSICKLE_UNDEAD"
+      },
+      {
+        "uniquename": "T4_2H_ROCKSTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T4_OFF_LAMP_UNDEAD"
+      },
+      {
+        "uniquename": "T4_2H_BOW_AVALON"
+      },
+      {
+        "uniquename": "T4_MAIN_NATURESTAFF_AVALON"
+      },
+      {
+        "uniquename": "T4_MAIN_SPEAR_LANCE_AVALON"
+      },
+      {
+        "uniquename": "T4_2H_QUARTERSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T4_2H_DAGGER_KATAR_AVALON"
+      },
+      {
+        "uniquename": "T4_OFF_TALISMAN_AVALON"
+      },
+      {
+        "uniquename": "T5_2H_BOW"
+      },
+      {
+        "uniquename": "T5_2H_WARBOW"
+      },
+      {
+        "uniquename": "T5_2H_LONGBOW"
+      },
+      {
+        "uniquename": "T5_MAIN_SPEAR"
+      },
+      {
+        "uniquename": "T5_2H_SPEAR"
+      },
+      {
+        "uniquename": "T5_2H_GLAIVE"
+      },
+      {
+        "uniquename": "T5_MAIN_DAGGER"
+      },
+      {
+        "uniquename": "T5_2H_DAGGERPAIR"
+      },
+      {
+        "uniquename": "T5_2H_CLAWPAIR"
+      },
+      {
+        "uniquename": "T5_2H_QUARTERSTAFF"
+      },
+      {
+        "uniquename": "T5_2H_IRONCLADEDSTAFF"
+      },
+      {
+        "uniquename": "T5_2H_DOUBLEBLADEDSTAFF"
+      },
+      {
+        "uniquename": "T5_MAIN_NATURESTAFF"
+      },
+      {
+        "uniquename": "T5_2H_NATURESTAFF"
+      },
+      {
+        "uniquename": "T5_2H_WILDSTAFF"
+      },
+      {
+        "uniquename": "T5_OFF_TORCH"
+      },
+      {
+        "uniquename": "T5_2H_LONGBOW_UNDEAD"
+      },
+      {
+        "uniquename": "T5_MAIN_RAPIER_MORGANA"
+      },
+      {
+        "uniquename": "T5_2H_COMBATSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T5_MAIN_SPEAR_KEEPER"
+      },
+      {
+        "uniquename": "T5_MAIN_NATURESTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T5_OFF_HORN_KEEPER"
+      },
+      {
+        "uniquename": "T5_2H_IRONGAUNTLETS_HELL"
+      },
+      {
+        "uniquename": "T5_2H_TWINSCYTHE_HELL"
+      },
+      {
+        "uniquename": "T5_2H_HARPOON_HELL"
+      },
+      {
+        "uniquename": "T5_2H_BOW_HELL"
+      },
+      {
+        "uniquename": "T5_2H_NATURESTAFF_HELL"
+      },
+      {
+        "uniquename": "T5_OFF_JESTERCANE_HELL"
+      },
+      {
+        "uniquename": "T5_2H_BOW_KEEPER"
+      },
+      {
+        "uniquename": "T5_2H_TRIDENT_UNDEAD"
+      },
+      {
+        "uniquename": "T5_2H_NATURESTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T5_2H_DUALSICKLE_UNDEAD"
+      },
+      {
+        "uniquename": "T5_2H_ROCKSTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T5_OFF_LAMP_UNDEAD"
+      },
+      {
+        "uniquename": "T5_2H_BOW_AVALON"
+      },
+      {
+        "uniquename": "T5_MAIN_NATURESTAFF_AVALON"
+      },
+      {
+        "uniquename": "T5_MAIN_SPEAR_LANCE_AVALON"
+      },
+      {
+        "uniquename": "T5_2H_QUARTERSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T5_2H_DAGGER_KATAR_AVALON"
+      },
+      {
+        "uniquename": "T5_OFF_TALISMAN_AVALON"
+      },
+      {
+        "uniquename": "T6_2H_BOW"
+      },
+      {
+        "uniquename": "T6_2H_WARBOW"
+      },
+      {
+        "uniquename": "T6_2H_LONGBOW"
+      },
+      {
+        "uniquename": "T6_MAIN_SPEAR"
+      },
+      {
+        "uniquename": "T6_2H_SPEAR"
+      },
+      {
+        "uniquename": "T6_2H_GLAIVE"
+      },
+      {
+        "uniquename": "T6_MAIN_DAGGER"
+      },
+      {
+        "uniquename": "T6_2H_DAGGERPAIR"
+      },
+      {
+        "uniquename": "T6_2H_CLAWPAIR"
+      },
+      {
+        "uniquename": "T6_2H_QUARTERSTAFF"
+      },
+      {
+        "uniquename": "T6_2H_IRONCLADEDSTAFF"
+      },
+      {
+        "uniquename": "T6_2H_DOUBLEBLADEDSTAFF"
+      },
+      {
+        "uniquename": "T6_MAIN_NATURESTAFF"
+      },
+      {
+        "uniquename": "T6_2H_NATURESTAFF"
+      },
+      {
+        "uniquename": "T6_2H_WILDSTAFF"
+      },
+      {
+        "uniquename": "T6_OFF_TORCH"
+      },
+      {
+        "uniquename": "T6_2H_LONGBOW_UNDEAD"
+      },
+      {
+        "uniquename": "T6_MAIN_RAPIER_MORGANA"
+      },
+      {
+        "uniquename": "T6_2H_COMBATSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T6_MAIN_SPEAR_KEEPER"
+      },
+      {
+        "uniquename": "T6_MAIN_NATURESTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T6_OFF_HORN_KEEPER"
+      },
+      {
+        "uniquename": "T6_2H_IRONGAUNTLETS_HELL"
+      },
+      {
+        "uniquename": "T6_2H_TWINSCYTHE_HELL"
+      },
+      {
+        "uniquename": "T6_2H_HARPOON_HELL"
+      },
+      {
+        "uniquename": "T6_2H_BOW_HELL"
+      },
+      {
+        "uniquename": "T6_2H_NATURESTAFF_HELL"
+      },
+      {
+        "uniquename": "T6_OFF_JESTERCANE_HELL"
+      },
+      {
+        "uniquename": "T6_2H_BOW_KEEPER"
+      },
+      {
+        "uniquename": "T6_2H_TRIDENT_UNDEAD"
+      },
+      {
+        "uniquename": "T6_2H_NATURESTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T6_2H_DUALSICKLE_UNDEAD"
+      },
+      {
+        "uniquename": "T6_2H_ROCKSTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T6_OFF_LAMP_UNDEAD"
+      },
+      {
+        "uniquename": "T6_2H_BOW_AVALON"
+      },
+      {
+        "uniquename": "T6_MAIN_NATURESTAFF_AVALON"
+      },
+      {
+        "uniquename": "T6_MAIN_SPEAR_LANCE_AVALON"
+      },
+      {
+        "uniquename": "T6_2H_QUARTERSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T6_2H_DAGGER_KATAR_AVALON"
+      },
+      {
+        "uniquename": "T6_OFF_TALISMAN_AVALON"
+      },
+      {
+        "uniquename": "T7_2H_BOW"
+      },
+      {
+        "uniquename": "T7_2H_WARBOW"
+      },
+      {
+        "uniquename": "T7_2H_LONGBOW"
+      },
+      {
+        "uniquename": "T7_MAIN_SPEAR"
+      },
+      {
+        "uniquename": "T7_2H_SPEAR"
+      },
+      {
+        "uniquename": "T7_2H_GLAIVE"
+      },
+      {
+        "uniquename": "T7_MAIN_DAGGER"
+      },
+      {
+        "uniquename": "T7_2H_DAGGERPAIR"
+      },
+      {
+        "uniquename": "T7_2H_CLAWPAIR"
+      },
+      {
+        "uniquename": "T7_2H_QUARTERSTAFF"
+      },
+      {
+        "uniquename": "T7_2H_IRONCLADEDSTAFF"
+      },
+      {
+        "uniquename": "T7_2H_DOUBLEBLADEDSTAFF"
+      },
+      {
+        "uniquename": "T7_MAIN_NATURESTAFF"
+      },
+      {
+        "uniquename": "T7_2H_NATURESTAFF"
+      },
+      {
+        "uniquename": "T7_2H_WILDSTAFF"
+      },
+      {
+        "uniquename": "T7_OFF_TORCH"
+      },
+      {
+        "uniquename": "T7_2H_LONGBOW_UNDEAD"
+      },
+      {
+        "uniquename": "T7_MAIN_RAPIER_MORGANA"
+      },
+      {
+        "uniquename": "T7_2H_COMBATSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T7_MAIN_SPEAR_KEEPER"
+      },
+      {
+        "uniquename": "T7_MAIN_NATURESTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T7_OFF_HORN_KEEPER"
+      },
+      {
+        "uniquename": "T7_2H_IRONGAUNTLETS_HELL"
+      },
+      {
+        "uniquename": "T7_2H_TWINSCYTHE_HELL"
+      },
+      {
+        "uniquename": "T7_2H_HARPOON_HELL"
+      },
+      {
+        "uniquename": "T7_2H_BOW_HELL"
+      },
+      {
+        "uniquename": "T7_2H_NATURESTAFF_HELL"
+      },
+      {
+        "uniquename": "T7_OFF_JESTERCANE_HELL"
+      },
+      {
+        "uniquename": "T7_2H_BOW_KEEPER"
+      },
+      {
+        "uniquename": "T7_2H_TRIDENT_UNDEAD"
+      },
+      {
+        "uniquename": "T7_2H_NATURESTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T7_2H_DUALSICKLE_UNDEAD"
+      },
+      {
+        "uniquename": "T7_2H_ROCKSTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T7_OFF_LAMP_UNDEAD"
+      },
+      {
+        "uniquename": "T7_2H_BOW_AVALON"
+      },
+      {
+        "uniquename": "T7_MAIN_NATURESTAFF_AVALON"
+      },
+      {
+        "uniquename": "T7_MAIN_SPEAR_LANCE_AVALON"
+      },
+      {
+        "uniquename": "T7_2H_QUARTERSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T7_2H_DAGGER_KATAR_AVALON"
+      },
+      {
+        "uniquename": "T7_OFF_TALISMAN_AVALON"
+      },
+      {
+        "uniquename": "T8_2H_BOW"
+      },
+      {
+        "uniquename": "T8_2H_WARBOW"
+      },
+      {
+        "uniquename": "T8_2H_LONGBOW"
+      },
+      {
+        "uniquename": "T8_MAIN_SPEAR"
+      },
+      {
+        "uniquename": "T8_2H_SPEAR"
+      },
+      {
+        "uniquename": "T8_2H_GLAIVE"
+      },
+      {
+        "uniquename": "T8_MAIN_DAGGER"
+      },
+      {
+        "uniquename": "T8_2H_DAGGERPAIR"
+      },
+      {
+        "uniquename": "T8_2H_CLAWPAIR"
+      },
+      {
+        "uniquename": "T8_2H_QUARTERSTAFF"
+      },
+      {
+        "uniquename": "T8_2H_IRONCLADEDSTAFF"
+      },
+      {
+        "uniquename": "T8_2H_DOUBLEBLADEDSTAFF"
+      },
+      {
+        "uniquename": "T8_MAIN_NATURESTAFF"
+      },
+      {
+        "uniquename": "T8_2H_NATURESTAFF"
+      },
+      {
+        "uniquename": "T8_2H_WILDSTAFF"
+      },
+      {
+        "uniquename": "T8_OFF_TORCH"
+      },
+      {
+        "uniquename": "T8_2H_LONGBOW_UNDEAD"
+      },
+      {
+        "uniquename": "T8_MAIN_RAPIER_MORGANA"
+      },
+      {
+        "uniquename": "T8_2H_COMBATSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T8_MAIN_SPEAR_KEEPER"
+      },
+      {
+        "uniquename": "T8_MAIN_NATURESTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T8_OFF_HORN_KEEPER"
+      },
+      {
+        "uniquename": "T8_2H_IRONGAUNTLETS_HELL"
+      },
+      {
+        "uniquename": "T8_2H_TWINSCYTHE_HELL"
+      },
+      {
+        "uniquename": "T8_2H_HARPOON_HELL"
+      },
+      {
+        "uniquename": "T8_2H_BOW_HELL"
+      },
+      {
+        "uniquename": "T8_2H_NATURESTAFF_HELL"
+      },
+      {
+        "uniquename": "T8_OFF_JESTERCANE_HELL"
+      },
+      {
+        "uniquename": "T8_2H_BOW_KEEPER"
+      },
+      {
+        "uniquename": "T8_2H_TRIDENT_UNDEAD"
+      },
+      {
+        "uniquename": "T8_2H_NATURESTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T8_2H_DUALSICKLE_UNDEAD"
+      },
+      {
+        "uniquename": "T8_2H_ROCKSTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T8_OFF_LAMP_UNDEAD"
+      },
+      {
+        "uniquename": "T8_2H_BOW_AVALON"
+      },
+      {
+        "uniquename": "T8_MAIN_NATURESTAFF_AVALON"
+      },
+      {
+        "uniquename": "T8_MAIN_SPEAR_LANCE_AVALON"
+      },
+      {
+        "uniquename": "T8_2H_QUARTERSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T8_2H_DAGGER_KATAR_AVALON"
+      },
+      {
+        "uniquename": "T8_OFF_TALISMAN_AVALON"
+      },
+      {
+        "uniquename": "T1_HEAD_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T1_ARMOR_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T1_SHOES_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T2_HEAD_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T2_ARMOR_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T2_SHOES_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T3_HEAD_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T3_ARMOR_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T3_SHOES_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T4_HEAD_LEATHER_SET3"
+      },
+      {
+        "uniquename": "T4_ARMOR_LEATHER_SET3"
+      },
+      {
+        "uniquename": "T4_SHOES_LEATHER_SET3"
+      },
+      {
+        "uniquename": "T4_HEAD_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T4_ARMOR_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T4_SHOES_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T4_HEAD_LEATHER_SET2"
+      },
+      {
+        "uniquename": "T4_ARMOR_LEATHER_SET2"
+      },
+      {
+        "uniquename": "T4_SHOES_LEATHER_SET2"
+      },
+      {
+        "uniquename": "T4_HEAD_LEATHER_ROYAL"
+      },
+      {
+        "uniquename": "T4_ARMOR_LEATHER_ROYAL"
+      },
+      {
+        "uniquename": "T4_SHOES_LEATHER_ROYAL"
+      },
+      {
+        "uniquename": "T4_HEAD_LEATHER_MORGANA"
+      },
+      {
+        "uniquename": "T4_ARMOR_LEATHER_MORGANA"
+      },
+      {
+        "uniquename": "T4_SHOES_LEATHER_MORGANA"
+      },
+      {
+        "uniquename": "T4_ARMOR_LEATHER_HELL"
+      },
+      {
+        "uniquename": "T4_HEAD_LEATHER_HELL"
+      },
+      {
+        "uniquename": "T4_SHOES_LEATHER_HELL"
+      },
+      {
+        "uniquename": "T4_HEAD_LEATHER_UNDEAD"
+      },
+      {
+        "uniquename": "T4_ARMOR_LEATHER_UNDEAD"
+      },
+      {
+        "uniquename": "T4_SHOES_LEATHER_UNDEAD"
+      },
+      {
+        "uniquename": "T4_HEAD_LEATHER_AVALON"
+      },
+      {
+        "uniquename": "T4_ARMOR_LEATHER_AVALON"
+      },
+      {
+        "uniquename": "T4_SHOES_LEATHER_AVALON"
+      },
+      {
+        "uniquename": "T5_HEAD_LEATHER_SET3"
+      },
+      {
+        "uniquename": "T5_ARMOR_LEATHER_SET3"
+      },
+      {
+        "uniquename": "T5_SHOES_LEATHER_SET3"
+      },
+      {
+        "uniquename": "T5_HEAD_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T5_ARMOR_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T5_SHOES_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T5_HEAD_LEATHER_SET2"
+      },
+      {
+        "uniquename": "T5_ARMOR_LEATHER_SET2"
+      },
+      {
+        "uniquename": "T5_SHOES_LEATHER_SET2"
+      },
+      {
+        "uniquename": "T5_HEAD_LEATHER_ROYAL"
+      },
+      {
+        "uniquename": "T5_ARMOR_LEATHER_ROYAL"
+      },
+      {
+        "uniquename": "T5_SHOES_LEATHER_ROYAL"
+      },
+      {
+        "uniquename": "T5_HEAD_LEATHER_MORGANA"
+      },
+      {
+        "uniquename": "T5_ARMOR_LEATHER_MORGANA"
+      },
+      {
+        "uniquename": "T5_SHOES_LEATHER_MORGANA"
+      },
+      {
+        "uniquename": "T5_ARMOR_LEATHER_HELL"
+      },
+      {
+        "uniquename": "T5_HEAD_LEATHER_HELL"
+      },
+      {
+        "uniquename": "T5_SHOES_LEATHER_HELL"
+      },
+      {
+        "uniquename": "T5_HEAD_LEATHER_UNDEAD"
+      },
+      {
+        "uniquename": "T5_ARMOR_LEATHER_UNDEAD"
+      },
+      {
+        "uniquename": "T5_SHOES_LEATHER_UNDEAD"
+      },
+      {
+        "uniquename": "T5_HEAD_LEATHER_AVALON"
+      },
+      {
+        "uniquename": "T5_ARMOR_LEATHER_AVALON"
+      },
+      {
+        "uniquename": "T5_SHOES_LEATHER_AVALON"
+      },
+      {
+        "uniquename": "T6_HEAD_LEATHER_SET3"
+      },
+      {
+        "uniquename": "T6_ARMOR_LEATHER_SET3"
+      },
+      {
+        "uniquename": "T6_SHOES_LEATHER_SET3"
+      },
+      {
+        "uniquename": "T6_HEAD_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T6_ARMOR_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T6_SHOES_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T6_HEAD_LEATHER_SET2"
+      },
+      {
+        "uniquename": "T6_ARMOR_LEATHER_SET2"
+      },
+      {
+        "uniquename": "T6_SHOES_LEATHER_SET2"
+      },
+      {
+        "uniquename": "T6_HEAD_LEATHER_ROYAL"
+      },
+      {
+        "uniquename": "T6_ARMOR_LEATHER_ROYAL"
+      },
+      {
+        "uniquename": "T6_SHOES_LEATHER_ROYAL"
+      },
+      {
+        "uniquename": "T6_HEAD_LEATHER_MORGANA"
+      },
+      {
+        "uniquename": "T6_ARMOR_LEATHER_MORGANA"
+      },
+      {
+        "uniquename": "T6_SHOES_LEATHER_MORGANA"
+      },
+      {
+        "uniquename": "T6_ARMOR_LEATHER_HELL"
+      },
+      {
+        "uniquename": "T6_HEAD_LEATHER_HELL"
+      },
+      {
+        "uniquename": "T6_SHOES_LEATHER_HELL"
+      },
+      {
+        "uniquename": "T6_HEAD_LEATHER_UNDEAD"
+      },
+      {
+        "uniquename": "T6_ARMOR_LEATHER_UNDEAD"
+      },
+      {
+        "uniquename": "T6_SHOES_LEATHER_UNDEAD"
+      },
+      {
+        "uniquename": "T6_HEAD_LEATHER_AVALON"
+      },
+      {
+        "uniquename": "T6_ARMOR_LEATHER_AVALON"
+      },
+      {
+        "uniquename": "T6_SHOES_LEATHER_AVALON"
+      },
+      {
+        "uniquename": "T7_HEAD_LEATHER_SET3"
+      },
+      {
+        "uniquename": "T7_ARMOR_LEATHER_SET3"
+      },
+      {
+        "uniquename": "T7_SHOES_LEATHER_SET3"
+      },
+      {
+        "uniquename": "T7_HEAD_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T7_ARMOR_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T7_SHOES_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T7_HEAD_LEATHER_SET2"
+      },
+      {
+        "uniquename": "T7_ARMOR_LEATHER_SET2"
+      },
+      {
+        "uniquename": "T7_SHOES_LEATHER_SET2"
+      },
+      {
+        "uniquename": "T7_HEAD_LEATHER_ROYAL"
+      },
+      {
+        "uniquename": "T7_ARMOR_LEATHER_ROYAL"
+      },
+      {
+        "uniquename": "T7_SHOES_LEATHER_ROYAL"
+      },
+      {
+        "uniquename": "T7_HEAD_LEATHER_MORGANA"
+      },
+      {
+        "uniquename": "T7_ARMOR_LEATHER_MORGANA"
+      },
+      {
+        "uniquename": "T7_SHOES_LEATHER_MORGANA"
+      },
+      {
+        "uniquename": "T7_ARMOR_LEATHER_HELL"
+      },
+      {
+        "uniquename": "T7_HEAD_LEATHER_HELL"
+      },
+      {
+        "uniquename": "T7_SHOES_LEATHER_HELL"
+      },
+      {
+        "uniquename": "T7_HEAD_LEATHER_UNDEAD"
+      },
+      {
+        "uniquename": "T7_ARMOR_LEATHER_UNDEAD"
+      },
+      {
+        "uniquename": "T7_SHOES_LEATHER_UNDEAD"
+      },
+      {
+        "uniquename": "T7_HEAD_LEATHER_AVALON"
+      },
+      {
+        "uniquename": "T7_ARMOR_LEATHER_AVALON"
+      },
+      {
+        "uniquename": "T7_SHOES_LEATHER_AVALON"
+      },
+      {
+        "uniquename": "T8_HEAD_LEATHER_SET3"
+      },
+      {
+        "uniquename": "T8_ARMOR_LEATHER_SET3"
+      },
+      {
+        "uniquename": "T8_SHOES_LEATHER_SET3"
+      },
+      {
+        "uniquename": "T8_HEAD_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T8_ARMOR_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T8_SHOES_LEATHER_SET1"
+      },
+      {
+        "uniquename": "T8_HEAD_LEATHER_SET2"
+      },
+      {
+        "uniquename": "T8_ARMOR_LEATHER_SET2"
+      },
+      {
+        "uniquename": "T8_SHOES_LEATHER_SET2"
+      },
+      {
+        "uniquename": "T8_HEAD_LEATHER_ROYAL"
+      },
+      {
+        "uniquename": "T8_ARMOR_LEATHER_ROYAL"
+      },
+      {
+        "uniquename": "T8_SHOES_LEATHER_ROYAL"
+      },
+      {
+        "uniquename": "T8_HEAD_LEATHER_MORGANA"
+      },
+      {
+        "uniquename": "T8_ARMOR_LEATHER_MORGANA"
+      },
+      {
+        "uniquename": "T8_SHOES_LEATHER_MORGANA"
+      },
+      {
+        "uniquename": "T8_ARMOR_LEATHER_HELL"
+      },
+      {
+        "uniquename": "T8_HEAD_LEATHER_HELL"
+      },
+      {
+        "uniquename": "T8_SHOES_LEATHER_HELL"
+      },
+      {
+        "uniquename": "T8_HEAD_LEATHER_UNDEAD"
+      },
+      {
+        "uniquename": "T8_ARMOR_LEATHER_UNDEAD"
+      },
+      {
+        "uniquename": "T8_SHOES_LEATHER_UNDEAD"
+      },
+      {
+        "uniquename": "T8_HEAD_LEATHER_AVALON"
+      },
+      {
+        "uniquename": "T8_ARMOR_LEATHER_AVALON"
+      },
+      {
+        "uniquename": "T8_SHOES_LEATHER_AVALON"
+      }
+    ]
+  },
+  {
+    "uniquename": "T8_MAGICITEMS",
+    "category": "CRAFT_ITEMS",
+    "favoritedish": "T6_MEAL_SANDWICH",
+    "items": [
+      {
+        "uniquename": "T2_MAIN_FIRESTAFF"
+      },
+      {
+        "uniquename": "T2_OFF_BOOK"
+      },
+      {
+        "uniquename": "T3_MAIN_ARCANESTAFF"
+      },
+      {
+        "uniquename": "T3_MAIN_FIRESTAFF"
+      },
+      {
+        "uniquename": "T3_MAIN_HOLYSTAFF"
+      },
+      {
+        "uniquename": "T3_MAIN_CURSEDSTAFF"
+      },
+      {
+        "uniquename": "T3_MAIN_FROSTSTAFF"
+      },
+      {
+        "uniquename": "T3_OFF_BOOK"
+      },
+      {
+        "uniquename": "T4_MAIN_ARCANESTAFF"
+      },
+      {
+        "uniquename": "T4_2H_ARCANESTAFF"
+      },
+      {
+        "uniquename": "T4_2H_ENIGMATICSTAFF"
+      },
+      {
+        "uniquename": "T4_MAIN_FROSTSTAFF"
+      },
+      {
+        "uniquename": "T4_2H_FROSTSTAFF"
+      },
+      {
+        "uniquename": "T4_2H_GLACIALSTAFF"
+      },
+      {
+        "uniquename": "T4_MAIN_FIRESTAFF"
+      },
+      {
+        "uniquename": "T4_2H_FIRESTAFF"
+      },
+      {
+        "uniquename": "T4_2H_INFERNOSTAFF"
+      },
+      {
+        "uniquename": "T4_MAIN_CURSEDSTAFF"
+      },
+      {
+        "uniquename": "T4_2H_CURSEDSTAFF"
+      },
+      {
+        "uniquename": "T4_2H_DEMONICSTAFF"
+      },
+      {
+        "uniquename": "T4_MAIN_HOLYSTAFF"
+      },
+      {
+        "uniquename": "T4_2H_HOLYSTAFF"
+      },
+      {
+        "uniquename": "T4_2H_DIVINESTAFF"
+      },
+      {
+        "uniquename": "T4_OFF_BOOK"
+      },
+      {
+        "uniquename": "T4_MAIN_CURSEDSTAFF_UNDEAD"
+      },
+      {
+        "uniquename": "T4_MAIN_ARCANESTAFF_UNDEAD"
+      },
+      {
+        "uniquename": "T4_MAIN_HOLYSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T4_OFF_ORB_MORGANA"
+      },
+      {
+        "uniquename": "T4_MAIN_FIRESTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T4_MAIN_FROSTSTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T4_2H_SKULLORB_HELL"
+      },
+      {
+        "uniquename": "T4_2H_FIRESTAFF_HELL"
+      },
+      {
+        "uniquename": "T4_2H_ICEGAUNTLETS_HELL"
+      },
+      {
+        "uniquename": "T4_2H_ARCANESTAFF_HELL"
+      },
+      {
+        "uniquename": "T4_2H_HOLYSTAFF_HELL"
+      },
+      {
+        "uniquename": "T4_OFF_DEMONSKULL_HELL"
+      },
+      {
+        "uniquename": "T4_2H_INFERNOSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T4_2H_HOLYSTAFF_UNDEAD"
+      },
+      {
+        "uniquename": "T4_2H_ENIGMATICORB_MORGANA"
+      },
+      {
+        "uniquename": "T4_2H_ICECRYSTAL_UNDEAD"
+      },
+      {
+        "uniquename": "T4_2H_CURSEDSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T4_OFF_TOTEM_KEEPER"
+      },
+      {
+        "uniquename": "T4_2H_FIRE_RINGPAIR_AVALON"
+      },
+      {
+        "uniquename": "T4_MAIN_HOLYSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T4_2H_ARCANE_RINGPAIR_AVALON"
+      },
+      {
+        "uniquename": "T4_MAIN_FROSTSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T4_MAIN_CURSEDSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T4_OFF_CENSER_AVALON"
+      },
+      {
+        "uniquename": "T5_MAIN_ARCANESTAFF"
+      },
+      {
+        "uniquename": "T5_2H_ARCANESTAFF"
+      },
+      {
+        "uniquename": "T5_2H_ENIGMATICSTAFF"
+      },
+      {
+        "uniquename": "T5_MAIN_FROSTSTAFF"
+      },
+      {
+        "uniquename": "T5_2H_FROSTSTAFF"
+      },
+      {
+        "uniquename": "T5_2H_GLACIALSTAFF"
+      },
+      {
+        "uniquename": "T5_MAIN_FIRESTAFF"
+      },
+      {
+        "uniquename": "T5_2H_FIRESTAFF"
+      },
+      {
+        "uniquename": "T5_2H_INFERNOSTAFF"
+      },
+      {
+        "uniquename": "T5_MAIN_CURSEDSTAFF"
+      },
+      {
+        "uniquename": "T5_2H_CURSEDSTAFF"
+      },
+      {
+        "uniquename": "T5_2H_DEMONICSTAFF"
+      },
+      {
+        "uniquename": "T5_MAIN_HOLYSTAFF"
+      },
+      {
+        "uniquename": "T5_2H_HOLYSTAFF"
+      },
+      {
+        "uniquename": "T5_2H_DIVINESTAFF"
+      },
+      {
+        "uniquename": "T5_OFF_BOOK"
+      },
+      {
+        "uniquename": "T5_MAIN_CURSEDSTAFF_UNDEAD"
+      },
+      {
+        "uniquename": "T5_MAIN_ARCANESTAFF_UNDEAD"
+      },
+      {
+        "uniquename": "T5_MAIN_HOLYSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T5_OFF_ORB_MORGANA"
+      },
+      {
+        "uniquename": "T5_MAIN_FIRESTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T5_MAIN_FROSTSTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T5_2H_SKULLORB_HELL"
+      },
+      {
+        "uniquename": "T5_2H_FIRESTAFF_HELL"
+      },
+      {
+        "uniquename": "T5_2H_ICEGAUNTLETS_HELL"
+      },
+      {
+        "uniquename": "T5_2H_ARCANESTAFF_HELL"
+      },
+      {
+        "uniquename": "T5_2H_HOLYSTAFF_HELL"
+      },
+      {
+        "uniquename": "T5_OFF_DEMONSKULL_HELL"
+      },
+      {
+        "uniquename": "T5_2H_INFERNOSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T5_2H_HOLYSTAFF_UNDEAD"
+      },
+      {
+        "uniquename": "T5_2H_ENIGMATICORB_MORGANA"
+      },
+      {
+        "uniquename": "T5_2H_ICECRYSTAL_UNDEAD"
+      },
+      {
+        "uniquename": "T5_2H_CURSEDSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T5_OFF_TOTEM_KEEPER"
+      },
+      {
+        "uniquename": "T5_2H_FIRE_RINGPAIR_AVALON"
+      },
+      {
+        "uniquename": "T5_MAIN_HOLYSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T5_2H_ARCANE_RINGPAIR_AVALON"
+      },
+      {
+        "uniquename": "T5_MAIN_FROSTSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T5_MAIN_CURSEDSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T5_OFF_CENSER_AVALON"
+      },
+      {
+        "uniquename": "T6_MAIN_ARCANESTAFF"
+      },
+      {
+        "uniquename": "T6_2H_ARCANESTAFF"
+      },
+      {
+        "uniquename": "T6_2H_ENIGMATICSTAFF"
+      },
+      {
+        "uniquename": "T6_MAIN_FROSTSTAFF"
+      },
+      {
+        "uniquename": "T6_2H_FROSTSTAFF"
+      },
+      {
+        "uniquename": "T6_2H_GLACIALSTAFF"
+      },
+      {
+        "uniquename": "T6_MAIN_FIRESTAFF"
+      },
+      {
+        "uniquename": "T6_2H_FIRESTAFF"
+      },
+      {
+        "uniquename": "T6_2H_INFERNOSTAFF"
+      },
+      {
+        "uniquename": "T6_MAIN_CURSEDSTAFF"
+      },
+      {
+        "uniquename": "T6_2H_CURSEDSTAFF"
+      },
+      {
+        "uniquename": "T6_2H_DEMONICSTAFF"
+      },
+      {
+        "uniquename": "T6_MAIN_HOLYSTAFF"
+      },
+      {
+        "uniquename": "T6_2H_HOLYSTAFF"
+      },
+      {
+        "uniquename": "T6_2H_DIVINESTAFF"
+      },
+      {
+        "uniquename": "T6_OFF_BOOK"
+      },
+      {
+        "uniquename": "T6_MAIN_CURSEDSTAFF_UNDEAD"
+      },
+      {
+        "uniquename": "T6_MAIN_ARCANESTAFF_UNDEAD"
+      },
+      {
+        "uniquename": "T6_MAIN_HOLYSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T6_OFF_ORB_MORGANA"
+      },
+      {
+        "uniquename": "T6_MAIN_FIRESTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T6_MAIN_FROSTSTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T6_2H_SKULLORB_HELL"
+      },
+      {
+        "uniquename": "T6_2H_FIRESTAFF_HELL"
+      },
+      {
+        "uniquename": "T6_2H_ICEGAUNTLETS_HELL"
+      },
+      {
+        "uniquename": "T6_2H_ARCANESTAFF_HELL"
+      },
+      {
+        "uniquename": "T6_2H_HOLYSTAFF_HELL"
+      },
+      {
+        "uniquename": "T6_OFF_DEMONSKULL_HELL"
+      },
+      {
+        "uniquename": "T6_2H_INFERNOSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T6_2H_HOLYSTAFF_UNDEAD"
+      },
+      {
+        "uniquename": "T6_2H_ENIGMATICORB_MORGANA"
+      },
+      {
+        "uniquename": "T6_2H_ICECRYSTAL_UNDEAD"
+      },
+      {
+        "uniquename": "T6_2H_CURSEDSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T6_OFF_TOTEM_KEEPER"
+      },
+      {
+        "uniquename": "T6_2H_FIRE_RINGPAIR_AVALON"
+      },
+      {
+        "uniquename": "T6_MAIN_HOLYSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T6_2H_ARCANE_RINGPAIR_AVALON"
+      },
+      {
+        "uniquename": "T6_MAIN_FROSTSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T6_MAIN_CURSEDSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T6_OFF_CENSER_AVALON"
+      },
+      {
+        "uniquename": "T7_MAIN_ARCANESTAFF"
+      },
+      {
+        "uniquename": "T7_2H_ARCANESTAFF"
+      },
+      {
+        "uniquename": "T7_2H_ENIGMATICSTAFF"
+      },
+      {
+        "uniquename": "T7_MAIN_FROSTSTAFF"
+      },
+      {
+        "uniquename": "T7_2H_FROSTSTAFF"
+      },
+      {
+        "uniquename": "T7_2H_GLACIALSTAFF"
+      },
+      {
+        "uniquename": "T7_MAIN_FIRESTAFF"
+      },
+      {
+        "uniquename": "T7_2H_FIRESTAFF"
+      },
+      {
+        "uniquename": "T7_2H_INFERNOSTAFF"
+      },
+      {
+        "uniquename": "T7_MAIN_CURSEDSTAFF"
+      },
+      {
+        "uniquename": "T7_2H_CURSEDSTAFF"
+      },
+      {
+        "uniquename": "T7_2H_DEMONICSTAFF"
+      },
+      {
+        "uniquename": "T7_MAIN_HOLYSTAFF"
+      },
+      {
+        "uniquename": "T7_2H_HOLYSTAFF"
+      },
+      {
+        "uniquename": "T7_2H_DIVINESTAFF"
+      },
+      {
+        "uniquename": "T7_OFF_BOOK"
+      },
+      {
+        "uniquename": "T7_MAIN_CURSEDSTAFF_UNDEAD"
+      },
+      {
+        "uniquename": "T7_MAIN_ARCANESTAFF_UNDEAD"
+      },
+      {
+        "uniquename": "T7_MAIN_HOLYSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T7_OFF_ORB_MORGANA"
+      },
+      {
+        "uniquename": "T7_MAIN_FIRESTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T7_MAIN_FROSTSTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T7_2H_SKULLORB_HELL"
+      },
+      {
+        "uniquename": "T7_2H_FIRESTAFF_HELL"
+      },
+      {
+        "uniquename": "T7_2H_ICEGAUNTLETS_HELL"
+      },
+      {
+        "uniquename": "T7_2H_ARCANESTAFF_HELL"
+      },
+      {
+        "uniquename": "T7_2H_HOLYSTAFF_HELL"
+      },
+      {
+        "uniquename": "T7_OFF_DEMONSKULL_HELL"
+      },
+      {
+        "uniquename": "T7_2H_INFERNOSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T7_2H_HOLYSTAFF_UNDEAD"
+      },
+      {
+        "uniquename": "T7_2H_ENIGMATICORB_MORGANA"
+      },
+      {
+        "uniquename": "T7_2H_ICECRYSTAL_UNDEAD"
+      },
+      {
+        "uniquename": "T7_2H_CURSEDSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T7_OFF_TOTEM_KEEPER"
+      },
+      {
+        "uniquename": "T7_2H_FIRE_RINGPAIR_AVALON"
+      },
+      {
+        "uniquename": "T7_MAIN_HOLYSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T7_2H_ARCANE_RINGPAIR_AVALON"
+      },
+      {
+        "uniquename": "T7_MAIN_FROSTSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T7_MAIN_CURSEDSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T7_OFF_CENSER_AVALON"
+      },
+      {
+        "uniquename": "T8_MAIN_ARCANESTAFF"
+      },
+      {
+        "uniquename": "T8_2H_ARCANESTAFF"
+      },
+      {
+        "uniquename": "T8_2H_ENIGMATICSTAFF"
+      },
+      {
+        "uniquename": "T8_MAIN_FROSTSTAFF"
+      },
+      {
+        "uniquename": "T8_2H_FROSTSTAFF"
+      },
+      {
+        "uniquename": "T8_2H_GLACIALSTAFF"
+      },
+      {
+        "uniquename": "T8_MAIN_FIRESTAFF"
+      },
+      {
+        "uniquename": "T8_2H_FIRESTAFF"
+      },
+      {
+        "uniquename": "T8_2H_INFERNOSTAFF"
+      },
+      {
+        "uniquename": "T8_MAIN_CURSEDSTAFF"
+      },
+      {
+        "uniquename": "T8_2H_CURSEDSTAFF"
+      },
+      {
+        "uniquename": "T8_2H_DEMONICSTAFF"
+      },
+      {
+        "uniquename": "T8_MAIN_HOLYSTAFF"
+      },
+      {
+        "uniquename": "T8_2H_HOLYSTAFF"
+      },
+      {
+        "uniquename": "T8_2H_DIVINESTAFF"
+      },
+      {
+        "uniquename": "T8_OFF_BOOK"
+      },
+      {
+        "uniquename": "T8_MAIN_CURSEDSTAFF_UNDEAD"
+      },
+      {
+        "uniquename": "T8_MAIN_ARCANESTAFF_UNDEAD"
+      },
+      {
+        "uniquename": "T8_MAIN_HOLYSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T8_OFF_ORB_MORGANA"
+      },
+      {
+        "uniquename": "T8_MAIN_FIRESTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T8_MAIN_FROSTSTAFF_KEEPER"
+      },
+      {
+        "uniquename": "T8_2H_SKULLORB_HELL"
+      },
+      {
+        "uniquename": "T8_2H_FIRESTAFF_HELL"
+      },
+      {
+        "uniquename": "T8_2H_ICEGAUNTLETS_HELL"
+      },
+      {
+        "uniquename": "T8_2H_ARCANESTAFF_HELL"
+      },
+      {
+        "uniquename": "T8_2H_HOLYSTAFF_HELL"
+      },
+      {
+        "uniquename": "T8_OFF_DEMONSKULL_HELL"
+      },
+      {
+        "uniquename": "T8_2H_INFERNOSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T8_2H_HOLYSTAFF_UNDEAD"
+      },
+      {
+        "uniquename": "T8_2H_ENIGMATICORB_MORGANA"
+      },
+      {
+        "uniquename": "T8_2H_ICECRYSTAL_UNDEAD"
+      },
+      {
+        "uniquename": "T8_2H_CURSEDSTAFF_MORGANA"
+      },
+      {
+        "uniquename": "T8_OFF_TOTEM_KEEPER"
+      },
+      {
+        "uniquename": "T8_2H_FIRE_RINGPAIR_AVALON"
+      },
+      {
+        "uniquename": "T8_MAIN_HOLYSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T8_2H_ARCANE_RINGPAIR_AVALON"
+      },
+      {
+        "uniquename": "T8_MAIN_FROSTSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T8_MAIN_CURSEDSTAFF_AVALON"
+      },
+      {
+        "uniquename": "T8_OFF_CENSER_AVALON"
+      },
+      {
+        "uniquename": "T2_HEAD_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T2_ARMOR_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T2_SHOES_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T3_HEAD_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T3_ARMOR_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T3_SHOES_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T4_HEAD_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T4_ARMOR_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T4_SHOES_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T4_HEAD_CLOTH_SET2"
+      },
+      {
+        "uniquename": "T4_ARMOR_CLOTH_SET2"
+      },
+      {
+        "uniquename": "T4_SHOES_CLOTH_SET2"
+      },
+      {
+        "uniquename": "T4_HEAD_CLOTH_SET3"
+      },
+      {
+        "uniquename": "T4_ARMOR_CLOTH_SET3"
+      },
+      {
+        "uniquename": "T4_SHOES_CLOTH_SET3"
+      },
+      {
+        "uniquename": "T4_ARMOR_CLOTH_ROYAL"
+      },
+      {
+        "uniquename": "T4_HEAD_CLOTH_ROYAL"
+      },
+      {
+        "uniquename": "T4_SHOES_CLOTH_ROYAL"
+      },
+      {
+        "uniquename": "T4_ARMOR_CLOTH_KEEPER"
+      },
+      {
+        "uniquename": "T4_HEAD_CLOTH_KEEPER"
+      },
+      {
+        "uniquename": "T4_SHOES_CLOTH_KEEPER"
+      },
+      {
+        "uniquename": "T4_ARMOR_CLOTH_HELL"
+      },
+      {
+        "uniquename": "T4_HEAD_CLOTH_HELL"
+      },
+      {
+        "uniquename": "T4_SHOES_CLOTH_HELL"
+      },
+      {
+        "uniquename": "T4_ARMOR_CLOTH_MORGANA"
+      },
+      {
+        "uniquename": "T4_HEAD_CLOTH_MORGANA"
+      },
+      {
+        "uniquename": "T4_SHOES_CLOTH_MORGANA"
+      },
+      {
+        "uniquename": "T4_ARMOR_CLOTH_AVALON"
+      },
+      {
+        "uniquename": "T4_HEAD_CLOTH_AVALON"
+      },
+      {
+        "uniquename": "T4_SHOES_CLOTH_AVALON"
+      },
+      {
+        "uniquename": "T5_HEAD_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T5_ARMOR_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T5_SHOES_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T5_HEAD_CLOTH_SET2"
+      },
+      {
+        "uniquename": "T5_ARMOR_CLOTH_SET2"
+      },
+      {
+        "uniquename": "T5_SHOES_CLOTH_SET2"
+      },
+      {
+        "uniquename": "T5_HEAD_CLOTH_SET3"
+      },
+      {
+        "uniquename": "T5_ARMOR_CLOTH_SET3"
+      },
+      {
+        "uniquename": "T5_SHOES_CLOTH_SET3"
+      },
+      {
+        "uniquename": "T5_ARMOR_CLOTH_ROYAL"
+      },
+      {
+        "uniquename": "T5_HEAD_CLOTH_ROYAL"
+      },
+      {
+        "uniquename": "T5_SHOES_CLOTH_ROYAL"
+      },
+      {
+        "uniquename": "T5_ARMOR_CLOTH_KEEPER"
+      },
+      {
+        "uniquename": "T5_HEAD_CLOTH_KEEPER"
+      },
+      {
+        "uniquename": "T5_SHOES_CLOTH_KEEPER"
+      },
+      {
+        "uniquename": "T5_ARMOR_CLOTH_HELL"
+      },
+      {
+        "uniquename": "T5_HEAD_CLOTH_HELL"
+      },
+      {
+        "uniquename": "T5_SHOES_CLOTH_HELL"
+      },
+      {
+        "uniquename": "T5_ARMOR_CLOTH_MORGANA"
+      },
+      {
+        "uniquename": "T5_HEAD_CLOTH_MORGANA"
+      },
+      {
+        "uniquename": "T5_SHOES_CLOTH_MORGANA"
+      },
+      {
+        "uniquename": "T5_ARMOR_CLOTH_AVALON"
+      },
+      {
+        "uniquename": "T5_HEAD_CLOTH_AVALON"
+      },
+      {
+        "uniquename": "T5_SHOES_CLOTH_AVALON"
+      },
+      {
+        "uniquename": "T6_HEAD_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T6_ARMOR_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T6_SHOES_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T6_HEAD_CLOTH_SET2"
+      },
+      {
+        "uniquename": "T6_ARMOR_CLOTH_SET2"
+      },
+      {
+        "uniquename": "T6_SHOES_CLOTH_SET2"
+      },
+      {
+        "uniquename": "T6_HEAD_CLOTH_SET3"
+      },
+      {
+        "uniquename": "T6_ARMOR_CLOTH_SET3"
+      },
+      {
+        "uniquename": "T6_SHOES_CLOTH_SET3"
+      },
+      {
+        "uniquename": "T6_ARMOR_CLOTH_ROYAL"
+      },
+      {
+        "uniquename": "T6_HEAD_CLOTH_ROYAL"
+      },
+      {
+        "uniquename": "T6_SHOES_CLOTH_ROYAL"
+      },
+      {
+        "uniquename": "T6_ARMOR_CLOTH_KEEPER"
+      },
+      {
+        "uniquename": "T6_HEAD_CLOTH_KEEPER"
+      },
+      {
+        "uniquename": "T6_SHOES_CLOTH_KEEPER"
+      },
+      {
+        "uniquename": "T6_ARMOR_CLOTH_HELL"
+      },
+      {
+        "uniquename": "T6_HEAD_CLOTH_HELL"
+      },
+      {
+        "uniquename": "T6_SHOES_CLOTH_HELL"
+      },
+      {
+        "uniquename": "T6_ARMOR_CLOTH_MORGANA"
+      },
+      {
+        "uniquename": "T6_HEAD_CLOTH_MORGANA"
+      },
+      {
+        "uniquename": "T6_SHOES_CLOTH_MORGANA"
+      },
+      {
+        "uniquename": "T6_ARMOR_CLOTH_AVALON"
+      },
+      {
+        "uniquename": "T6_HEAD_CLOTH_AVALON"
+      },
+      {
+        "uniquename": "T6_SHOES_CLOTH_AVALON"
+      },
+      {
+        "uniquename": "T7_HEAD_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T7_ARMOR_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T7_SHOES_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T7_HEAD_CLOTH_SET2"
+      },
+      {
+        "uniquename": "T7_ARMOR_CLOTH_SET2"
+      },
+      {
+        "uniquename": "T7_SHOES_CLOTH_SET2"
+      },
+      {
+        "uniquename": "T7_HEAD_CLOTH_SET3"
+      },
+      {
+        "uniquename": "T7_ARMOR_CLOTH_SET3"
+      },
+      {
+        "uniquename": "T7_SHOES_CLOTH_SET3"
+      },
+      {
+        "uniquename": "T7_ARMOR_CLOTH_ROYAL"
+      },
+      {
+        "uniquename": "T7_HEAD_CLOTH_ROYAL"
+      },
+      {
+        "uniquename": "T7_SHOES_CLOTH_ROYAL"
+      },
+      {
+        "uniquename": "T7_ARMOR_CLOTH_KEEPER"
+      },
+      {
+        "uniquename": "T7_HEAD_CLOTH_KEEPER"
+      },
+      {
+        "uniquename": "T7_SHOES_CLOTH_KEEPER"
+      },
+      {
+        "uniquename": "T7_ARMOR_CLOTH_HELL"
+      },
+      {
+        "uniquename": "T7_HEAD_CLOTH_HELL"
+      },
+      {
+        "uniquename": "T7_SHOES_CLOTH_HELL"
+      },
+      {
+        "uniquename": "T7_ARMOR_CLOTH_MORGANA"
+      },
+      {
+        "uniquename": "T7_HEAD_CLOTH_MORGANA"
+      },
+      {
+        "uniquename": "T7_SHOES_CLOTH_MORGANA"
+      },
+      {
+        "uniquename": "T7_ARMOR_CLOTH_AVALON"
+      },
+      {
+        "uniquename": "T7_HEAD_CLOTH_AVALON"
+      },
+      {
+        "uniquename": "T7_SHOES_CLOTH_AVALON"
+      },
+      {
+        "uniquename": "T8_HEAD_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T8_ARMOR_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T8_SHOES_CLOTH_SET1"
+      },
+      {
+        "uniquename": "T8_HEAD_CLOTH_SET2"
+      },
+      {
+        "uniquename": "T8_ARMOR_CLOTH_SET2"
+      },
+      {
+        "uniquename": "T8_SHOES_CLOTH_SET2"
+      },
+      {
+        "uniquename": "T8_HEAD_CLOTH_SET3"
+      },
+      {
+        "uniquename": "T8_ARMOR_CLOTH_SET3"
+      },
+      {
+        "uniquename": "T8_SHOES_CLOTH_SET3"
+      },
+      {
+        "uniquename": "T8_ARMOR_CLOTH_ROYAL"
+      },
+      {
+        "uniquename": "T8_HEAD_CLOTH_ROYAL"
+      },
+      {
+        "uniquename": "T8_SHOES_CLOTH_ROYAL"
+      },
+      {
+        "uniquename": "T8_ARMOR_CLOTH_KEEPER"
+      },
+      {
+        "uniquename": "T8_HEAD_CLOTH_KEEPER"
+      },
+      {
+        "uniquename": "T8_SHOES_CLOTH_KEEPER"
+      },
+      {
+        "uniquename": "T8_ARMOR_CLOTH_HELL"
+      },
+      {
+        "uniquename": "T8_HEAD_CLOTH_HELL"
+      },
+      {
+        "uniquename": "T8_SHOES_CLOTH_HELL"
+      },
+      {
+        "uniquename": "T8_ARMOR_CLOTH_MORGANA"
+      },
+      {
+        "uniquename": "T8_HEAD_CLOTH_MORGANA"
+      },
+      {
+        "uniquename": "T8_SHOES_CLOTH_MORGANA"
+      },
+      {
+        "uniquename": "T8_ARMOR_CLOTH_AVALON"
+      },
+      {
+        "uniquename": "T8_HEAD_CLOTH_AVALON"
+      },
+      {
+        "uniquename": "T8_SHOES_CLOTH_AVALON"
+      }
+    ]
+  },
+  {
+    "uniquename": "T8_SMELTER",
+    "category": "CRAFT_ITEMS",
+    "favoritedish": "T3_MEAL_SOUP",
+    "items": [
+      {
+        "uniquename": "T2_METALBAR"
+      },
+      {
+        "uniquename": "T3_METALBAR"
+      },
+      {
+        "uniquename": "T4_METALBAR"
+      },
+      {
+        "uniquename": "T4_METALBAR_LEVEL1"
+      },
+      {
+        "uniquename": "T4_METALBAR_LEVEL2"
+      },
+      {
+        "uniquename": "T4_METALBAR_LEVEL3"
+      },
+      {
+        "uniquename": "T5_METALBAR"
+      },
+      {
+        "uniquename": "T5_METALBAR_LEVEL1"
+      },
+      {
+        "uniquename": "T5_METALBAR_LEVEL2"
+      },
+      {
+        "uniquename": "T5_METALBAR_LEVEL3"
+      },
+      {
+        "uniquename": "T6_METALBAR"
+      },
+      {
+        "uniquename": "T6_METALBAR_LEVEL1"
+      },
+      {
+        "uniquename": "T6_METALBAR_LEVEL2"
+      },
+      {
+        "uniquename": "T6_METALBAR_LEVEL3"
+      },
+      {
+        "uniquename": "T7_METALBAR"
+      },
+      {
+        "uniquename": "T7_METALBAR_LEVEL1"
+      },
+      {
+        "uniquename": "T7_METALBAR_LEVEL2"
+      },
+      {
+        "uniquename": "T7_METALBAR_LEVEL3"
+      },
+      {
+        "uniquename": "T8_METALBAR"
+      },
+      {
+        "uniquename": "T8_METALBAR_LEVEL1"
+      },
+      {
+        "uniquename": "T8_METALBAR_LEVEL2"
+      },
+      {
+        "uniquename": "T8_METALBAR_LEVEL3"
+      },
+      {
+        "uniquename": "T4_ORE_LEVEL1"
+      },
+      {
+        "uniquename": "T4_ORE_LEVEL2"
+      },
+      {
+        "uniquename": "T4_ORE_LEVEL3"
+      },
+      {
+        "uniquename": "T5_ORE"
+      },
+      {
+        "uniquename": "T5_ORE_LEVEL1"
+      },
+      {
+        "uniquename": "T5_ORE_LEVEL2"
+      },
+      {
+        "uniquename": "T5_ORE_LEVEL3"
+      },
+      {
+        "uniquename": "T6_ORE"
+      },
+      {
+        "uniquename": "T6_ORE_LEVEL1"
+      },
+      {
+        "uniquename": "T6_ORE_LEVEL2"
+      },
+      {
+        "uniquename": "T6_ORE_LEVEL3"
+      },
+      {
+        "uniquename": "T7_ORE"
+      },
+      {
+        "uniquename": "T7_ORE_LEVEL1"
+      },
+      {
+        "uniquename": "T7_ORE_LEVEL2"
+      },
+      {
+        "uniquename": "T7_ORE_LEVEL3"
+      },
+      {
+        "uniquename": "T8_ORE"
+      },
+      {
+        "uniquename": "T8_ORE_LEVEL1"
+      },
+      {
+        "uniquename": "T8_ORE_LEVEL2"
+      },
+      {
+        "uniquename": "T8_ORE_LEVEL3"
+      }
+    ]
+  },
+  {
+    "uniquename": "T8_CARPENTERSWORKSHOP",
+    "category": "CRAFT_RESOURCE",
+    "favoritedish": "T1_MEAL_SOUP",
+    "items": [
+      {
+        "uniquename": "T2_PLANKS"
+      },
+      {
+        "uniquename": "T3_PLANKS"
+      },
+      {
+        "uniquename": "T4_PLANKS"
+      },
+      {
+        "uniquename": "T4_PLANKS_LEVEL1"
+      },
+      {
+        "uniquename": "T4_PLANKS_LEVEL2"
+      },
+      {
+        "uniquename": "T4_PLANKS_LEVEL3"
+      },
+      {
+        "uniquename": "T5_PLANKS"
+      },
+      {
+        "uniquename": "T5_PLANKS_LEVEL1"
+      },
+      {
+        "uniquename": "T5_PLANKS_LEVEL2"
+      },
+      {
+        "uniquename": "T5_PLANKS_LEVEL3"
+      },
+      {
+        "uniquename": "T6_PLANKS"
+      },
+      {
+        "uniquename": "T6_PLANKS_LEVEL1"
+      },
+      {
+        "uniquename": "T6_PLANKS_LEVEL2"
+      },
+      {
+        "uniquename": "T6_PLANKS_LEVEL3"
+      },
+      {
+        "uniquename": "T7_PLANKS"
+      },
+      {
+        "uniquename": "T7_PLANKS_LEVEL1"
+      },
+      {
+        "uniquename": "T7_PLANKS_LEVEL2"
+      },
+      {
+        "uniquename": "T7_PLANKS_LEVEL3"
+      },
+      {
+        "uniquename": "T8_PLANKS"
+      },
+      {
+        "uniquename": "T8_PLANKS_LEVEL1"
+      },
+      {
+        "uniquename": "T8_PLANKS_LEVEL2"
+      },
+      {
+        "uniquename": "T8_PLANKS_LEVEL3"
+      },
+      {
+        "uniquename": "T4_WOOD_LEVEL1"
+      },
+      {
+        "uniquename": "T4_WOOD_LEVEL2"
+      },
+      {
+        "uniquename": "T4_WOOD_LEVEL3"
+      },
+      {
+        "uniquename": "T5_WOOD"
+      },
+      {
+        "uniquename": "T5_WOOD_LEVEL1"
+      },
+      {
+        "uniquename": "T5_WOOD_LEVEL2"
+      },
+      {
+        "uniquename": "T5_WOOD_LEVEL3"
+      },
+      {
+        "uniquename": "T6_WOOD"
+      },
+      {
+        "uniquename": "T6_WOOD_LEVEL1"
+      },
+      {
+        "uniquename": "T6_WOOD_LEVEL2"
+      },
+      {
+        "uniquename": "T6_WOOD_LEVEL3"
+      },
+      {
+        "uniquename": "T7_WOOD"
+      },
+      {
+        "uniquename": "T7_WOOD_LEVEL1"
+      },
+      {
+        "uniquename": "T7_WOOD_LEVEL2"
+      },
+      {
+        "uniquename": "T7_WOOD_LEVEL3"
+      },
+      {
+        "uniquename": "T8_WOOD"
+      },
+      {
+        "uniquename": "T8_WOOD_LEVEL1"
+      },
+      {
+        "uniquename": "T8_WOOD_LEVEL2"
+      },
+      {
+        "uniquename": "T8_WOOD_LEVEL3"
+      }
+    ]
+  },
+  {
+    "uniquename": "T8_STONEMASONRY",
+    "category": "CRAFT_RESOURCE",
+    "favoritedish": "T2_MEAL_SALAD",
+    "items": [
+      {
+        "uniquename": "T2_STONEBLOCK"
+      },
+      {
+        "uniquename": "T3_STONEBLOCK"
+      },
+      {
+        "uniquename": "T4_STONEBLOCK"
+      },
+      {
+        "uniquename": "T5_STONEBLOCK"
+      },
+      {
+        "uniquename": "T6_STONEBLOCK"
+      },
+      {
+        "uniquename": "T7_STONEBLOCK"
+      },
+      {
+        "uniquename": "T8_STONEBLOCK"
+      },
+      {
+        "uniquename": "T5_ROCK"
+      },
+      {
+        "uniquename": "T6_ROCK"
+      },
+      {
+        "uniquename": "T7_ROCK"
+      },
+      {
+        "uniquename": "T8_ROCK"
+      }
+    ]
+  },
+  {
+    "uniquename": "T8_TANNERY",
+    "category": "CRAFT_RESOURCE",
+    "favoritedish": "T3_MEAL_PIE",
+    "items": [
+      {
+        "uniquename": "T2_LEATHER"
+      },
+      {
+        "uniquename": "T3_LEATHER"
+      },
+      {
+        "uniquename": "T4_LEATHER"
+      },
+      {
+        "uniquename": "T4_LEATHER_LEVEL1"
+      },
+      {
+        "uniquename": "T4_LEATHER_LEVEL2"
+      },
+      {
+        "uniquename": "T4_LEATHER_LEVEL3"
+      },
+      {
+        "uniquename": "T5_LEATHER"
+      },
+      {
+        "uniquename": "T5_LEATHER_LEVEL1"
+      },
+      {
+        "uniquename": "T5_LEATHER_LEVEL2"
+      },
+      {
+        "uniquename": "T5_LEATHER_LEVEL3"
+      },
+      {
+        "uniquename": "T6_LEATHER"
+      },
+      {
+        "uniquename": "T6_LEATHER_LEVEL1"
+      },
+      {
+        "uniquename": "T6_LEATHER_LEVEL2"
+      },
+      {
+        "uniquename": "T6_LEATHER_LEVEL3"
+      },
+      {
+        "uniquename": "T7_LEATHER"
+      },
+      {
+        "uniquename": "T7_LEATHER_LEVEL1"
+      },
+      {
+        "uniquename": "T7_LEATHER_LEVEL2"
+      },
+      {
+        "uniquename": "T7_LEATHER_LEVEL3"
+      },
+      {
+        "uniquename": "T8_LEATHER"
+      },
+      {
+        "uniquename": "T8_LEATHER_LEVEL1"
+      },
+      {
+        "uniquename": "T8_LEATHER_LEVEL2"
+      },
+      {
+        "uniquename": "T8_LEATHER_LEVEL3"
+      },
+      {
+        "uniquename": "T4_HIDE_LEVEL1"
+      },
+      {
+        "uniquename": "T4_HIDE_LEVEL2"
+      },
+      {
+        "uniquename": "T4_HIDE_LEVEL3"
+      },
+      {
+        "uniquename": "T5_HIDE"
+      },
+      {
+        "uniquename": "T5_HIDE_LEVEL1"
+      },
+      {
+        "uniquename": "T5_HIDE_LEVEL2"
+      },
+      {
+        "uniquename": "T5_HIDE_LEVEL3"
+      },
+      {
+        "uniquename": "T6_HIDE"
+      },
+      {
+        "uniquename": "T6_HIDE_LEVEL1"
+      },
+      {
+        "uniquename": "T6_HIDE_LEVEL2"
+      },
+      {
+        "uniquename": "T6_HIDE_LEVEL3"
+      },
+      {
+        "uniquename": "T7_HIDE"
+      },
+      {
+        "uniquename": "T7_HIDE_LEVEL1"
+      },
+      {
+        "uniquename": "T7_HIDE_LEVEL2"
+      },
+      {
+        "uniquename": "T7_HIDE_LEVEL3"
+      },
+      {
+        "uniquename": "T8_HIDE"
+      },
+      {
+        "uniquename": "T8_HIDE_LEVEL1"
+      },
+      {
+        "uniquename": "T8_HIDE_LEVEL2"
+      },
+      {
+        "uniquename": "T8_HIDE_LEVEL3"
+      }
+    ]
+  },
+  {
+    "uniquename": "T8_WEAVINGMILL",
+    "category": "CRAFT_RESOURCE",
+    "favoritedish": "T3_MEAL_OMELETTE",
+    "items": [
+      {
+        "uniquename": "T2_CLOTH"
+      },
+      {
+        "uniquename": "T3_CLOTH"
+      },
+      {
+        "uniquename": "T4_CLOTH"
+      },
+      {
+        "uniquename": "T4_CLOTH_LEVEL1"
+      },
+      {
+        "uniquename": "T4_CLOTH_LEVEL2"
+      },
+      {
+        "uniquename": "T4_CLOTH_LEVEL3"
+      },
+      {
+        "uniquename": "T5_CLOTH"
+      },
+      {
+        "uniquename": "T5_CLOTH_LEVEL1"
+      },
+      {
+        "uniquename": "T5_CLOTH_LEVEL2"
+      },
+      {
+        "uniquename": "T5_CLOTH_LEVEL3"
+      },
+      {
+        "uniquename": "T6_CLOTH"
+      },
+      {
+        "uniquename": "T6_CLOTH_LEVEL1"
+      },
+      {
+        "uniquename": "T6_CLOTH_LEVEL2"
+      },
+      {
+        "uniquename": "T6_CLOTH_LEVEL3"
+      },
+      {
+        "uniquename": "T7_CLOTH"
+      },
+      {
+        "uniquename": "T7_CLOTH_LEVEL1"
+      },
+      {
+        "uniquename": "T7_CLOTH_LEVEL2"
+      },
+      {
+        "uniquename": "T7_CLOTH_LEVEL3"
+      },
+      {
+        "uniquename": "T8_CLOTH"
+      },
+      {
+        "uniquename": "T8_CLOTH_LEVEL1"
+      },
+      {
+        "uniquename": "T8_CLOTH_LEVEL2"
+      },
+      {
+        "uniquename": "T8_CLOTH_LEVEL3"
+      },
+      {
+        "uniquename": "T4_FIBER_LEVEL1"
+      },
+      {
+        "uniquename": "T4_FIBER_LEVEL2"
+      },
+      {
+        "uniquename": "T4_FIBER_LEVEL3"
+      },
+      {
+        "uniquename": "T5_FIBER"
+      },
+      {
+        "uniquename": "T5_FIBER_LEVEL1"
+      },
+      {
+        "uniquename": "T5_FIBER_LEVEL2"
+      },
+      {
+        "uniquename": "T5_FIBER_LEVEL3"
+      },
+      {
+        "uniquename": "T6_FIBER"
+      },
+      {
+        "uniquename": "T6_FIBER_LEVEL1"
+      },
+      {
+        "uniquename": "T6_FIBER_LEVEL2"
+      },
+      {
+        "uniquename": "T6_FIBER_LEVEL3"
+      },
+      {
+        "uniquename": "T7_FIBER"
+      },
+      {
+        "uniquename": "T7_FIBER_LEVEL1"
+      },
+      {
+        "uniquename": "T7_FIBER_LEVEL2"
+      },
+      {
+        "uniquename": "T7_FIBER_LEVEL3"
+      },
+      {
+        "uniquename": "T8_FIBER"
+      },
+      {
+        "uniquename": "T8_FIBER_LEVEL1"
+      },
+      {
+        "uniquename": "T8_FIBER_LEVEL2"
+      },
+      {
+        "uniquename": "T8_FIBER_LEVEL3"
+      }
+    ]
+  },
+  {
+    "uniquename": "T8_BUTCHER",
+    "category": "CRAFT_RESOURCE",
+    "favoritedish": "T5_MEAL_SOUP",
+    "items": [
+      {
+        "uniquename": "T1_FISHCHOPS"
+      },
+      {
+        "uniquename": "T3_MEAT"
+      },
+      {
+        "uniquename": "T4_MEAT"
+      },
+      {
+        "uniquename": "T5_MEAT"
+      },
+      {
+        "uniquename": "T6_MEAT"
+      },
+      {
+        "uniquename": "T7_MEAT"
+      },
+      {
+        "uniquename": "T8_MEAT"
+      }
+    ]
+  },
+  {
+    "uniquename": "T8_COOK",
+    "category": "CRAFT_CONSUMABLES",
+    "favoritedish": "T5_MEAL_PIE",
+    "items": [
+      {
+        "uniquename": "T1_FISHINGBAIT"
+      },
+      {
+        "uniquename": "T3_FISHINGBAIT"
+      },
+      {
+        "uniquename": "T5_FISHINGBAIT"
+      },
+      {
+        "uniquename": "T1_MEAL_GRILLEDFISH"
+      },
+      {
+        "uniquename": "T1_MEAL_SEAWEEDSALAD"
+      },
+      {
+        "uniquename": "T1_FISHSAUCE_LEVEL1"
+      },
+      {
+        "uniquename": "T1_FISHSAUCE_LEVEL2"
+      },
+      {
+        "uniquename": "T1_FISHSAUCE_LEVEL3"
+      },
+      {
+        "uniquename": "T1_MEAL_SOUP"
+      },
+      {
+        "uniquename": "T1_MEAL_SOUP_FISH"
+      },
+      {
+        "uniquename": "T2_MEAL_SALAD"
+      },
+      {
+        "uniquename": "T2_MEAL_SALAD_FISH"
+      },
+      {
+        "uniquename": "T3_MEAL_SOUP"
+      },
+      {
+        "uniquename": "T3_MEAL_SOUP_FISH"
+      },
+      {
+        "uniquename": "T3_MEAL_OMELETTE"
+      },
+      {
+        "uniquename": "T3_MEAL_OMELETTE_FISH"
+      },
+      {
+        "uniquename": "T3_MEAL_OMELETTE_AVALON"
+      },
+      {
+        "uniquename": "T3_MEAL_PIE"
+      },
+      {
+        "uniquename": "T3_MEAL_PIE_FISH"
+      },
+      {
+        "uniquename": "T3_MEAL_ROAST"
+      },
+      {
+        "uniquename": "T3_MEAL_ROAST_FISH"
+      },
+      {
+        "uniquename": "T4_MEAL_SALAD"
+      },
+      {
+        "uniquename": "T4_MEAL_SALAD_FISH"
+      },
+      {
+        "uniquename": "T4_MEAL_STEW"
+      },
+      {
+        "uniquename": "T4_MEAL_STEW_FISH"
+      },
+      {
+        "uniquename": "T4_MEAL_STEW_AVALON"
+      },
+      {
+        "uniquename": "T4_MEAL_SANDWICH"
+      },
+      {
+        "uniquename": "T4_MEAL_SANDWICH_FISH"
+      },
+      {
+        "uniquename": "T4_MEAL_SANDWICH_AVALON"
+      },
+      {
+        "uniquename": "T4_BREAD"
+      },
+      {
+        "uniquename": "T5_MEAL_SOUP"
+      },
+      {
+        "uniquename": "T5_MEAL_SOUP_FISH"
+      },
+      {
+        "uniquename": "T5_MEAL_OMELETTE"
+      },
+      {
+        "uniquename": "T5_MEAL_OMELETTE_FISH"
+      },
+      {
+        "uniquename": "T5_MEAL_OMELETTE_AVALON"
+      },
+      {
+        "uniquename": "T5_MEAL_PIE"
+      },
+      {
+        "uniquename": "T5_MEAL_PIE_FISH"
+      },
+      {
+        "uniquename": "T5_MEAL_ROAST"
+      },
+      {
+        "uniquename": "T5_MEAL_ROAST_FISH"
+      },
+      {
+        "uniquename": "T6_MEAL_SALAD"
+      },
+      {
+        "uniquename": "T6_MEAL_SALAD_FISH"
+      },
+      {
+        "uniquename": "T6_MEAL_STEW"
+      },
+      {
+        "uniquename": "T6_MEAL_STEW_FISH"
+      },
+      {
+        "uniquename": "T6_MEAL_STEW_AVALON"
+      },
+      {
+        "uniquename": "T6_MEAL_SANDWICH"
+      },
+      {
+        "uniquename": "T6_MEAL_SANDWICH_FISH"
+      },
+      {
+        "uniquename": "T6_MEAL_SANDWICH_AVALON"
+      },
+      {
+        "uniquename": "T7_MEAL_OMELETTE"
+      },
+      {
+        "uniquename": "T7_MEAL_OMELETTE_FISH"
+      },
+      {
+        "uniquename": "T7_MEAL_OMELETTE_AVALON"
+      },
+      {
+        "uniquename": "T7_MEAL_PIE"
+      },
+      {
+        "uniquename": "T7_MEAL_PIE_FISH"
+      },
+      {
+        "uniquename": "T7_MEAL_ROAST"
+      },
+      {
+        "uniquename": "T7_MEAL_ROAST_FISH"
+      },
+      {
+        "uniquename": "T8_MEAL_STEW"
+      },
+      {
+        "uniquename": "T8_MEAL_STEW_FISH"
+      },
+      {
+        "uniquename": "T8_MEAL_STEW_AVALON"
+      },
+      {
+        "uniquename": "T8_MEAL_SANDWICH"
+      },
+      {
+        "uniquename": "T8_MEAL_SANDWICH_FISH"
+      },
+      {
+        "uniquename": "T8_MEAL_SANDWICH_AVALON"
+      }
+    ]
+  },
+  {
+    "uniquename": "T8_ALCHEMIST",
+    "category": "CRAFT_CONSUMABLES",
+    "favoritedish": "T7_MEAL_OMELETTE",
+    "items": [
+      {
+        "uniquename": "T2_POTION_HEAL"
+      },
+      {
+        "uniquename": "T2_POTION_ENERGY"
+      },
+      {
+        "uniquename": "T3_POTION_REVIVE"
+      },
+      {
+        "uniquename": "T3_POTION_STONESKIN"
+      },
+      {
+        "uniquename": "T3_POTION_SLOWFIELD"
+      },
+      {
+        "uniquename": "T4_POTION_HEAL"
+      },
+      {
+        "uniquename": "T4_POTION_ENERGY"
+      },
+      {
+        "uniquename": "T4_POTION_COOLDOWN"
+      },
+      {
+        "uniquename": "T5_POTION_REVIVE"
+      },
+      {
+        "uniquename": "T5_POTION_STONESKIN"
+      },
+      {
+        "uniquename": "T5_POTION_SLOWFIELD"
+      },
+      {
+        "uniquename": "T6_POTION_HEAL"
+      },
+      {
+        "uniquename": "T6_POTION_ENERGY"
+      },
+      {
+        "uniquename": "T6_POTION_COOLDOWN"
+      },
+      {
+        "uniquename": "T6_ALCOHOL"
+      },
+      {
+        "uniquename": "T7_POTION_REVIVE"
+      },
+      {
+        "uniquename": "T7_POTION_STONESKIN"
+      },
+      {
+        "uniquename": "T7_POTION_SLOWFIELD"
+      },
+      {
+        "uniquename": "T7_ALCOHOL"
+      },
+      {
+        "uniquename": "T8_POTION_COOLDOWN"
+      },
+      {
+        "uniquename": "T8_POTION_CLEANSE"
+      },
+      {
+        "uniquename": "T8_ALCOHOL"
+      }
+    ]
+  },
+  {
+    "uniquename": "T8_TOOLMAKER",
+    "category": "CRAFT_ITEMS",
+    "favoritedish": "T4_MEAL_SALAD",
+    "items": [
+      {
+        "uniquename": "T1_2H_TOOL_PICK"
+      },
+      {
+        "uniquename": "T1_2H_TOOL_AXE"
+      },
+      {
+        "uniquename": "T1_2H_TOOL_KNIFE"
+      },
+      {
+        "uniquename": "T1_2H_TOOL_HAMMER"
+      },
+      {
+        "uniquename": "T1_2H_TOOL_SICKLE"
+      },
+      {
+        "uniquename": "T2_2H_TOOL_HAMMER"
+      },
+      {
+        "uniquename": "T2_2H_TOOL_AXE"
+      },
+      {
+        "uniquename": "T2_2H_TOOL_PICK"
+      },
+      {
+        "uniquename": "T2_2H_TOOL_SICKLE"
+      },
+      {
+        "uniquename": "T2_2H_TOOL_KNIFE"
+      },
+      {
+        "uniquename": "T2_2H_TOOL_SIEGEHAMMER"
+      },
+      {
+        "uniquename": "T3_2H_TOOL_HAMMER"
+      },
+      {
+        "uniquename": "T3_2H_TOOL_AXE"
+      },
+      {
+        "uniquename": "T3_2H_TOOL_PICK"
+      },
+      {
+        "uniquename": "T3_2H_TOOL_SICKLE"
+      },
+      {
+        "uniquename": "T3_2H_TOOL_KNIFE"
+      },
+      {
+        "uniquename": "T3_2H_TOOL_SIEGEHAMMER"
+      },
+      {
+        "uniquename": "T3_2H_TOOL_FISHINGROD"
+      },
+      {
+        "uniquename": "T4_2H_TOOL_HAMMER"
+      },
+      {
+        "uniquename": "T4_2H_TOOL_AXE"
+      },
+      {
+        "uniquename": "T4_2H_TOOL_PICK"
+      },
+      {
+        "uniquename": "T4_2H_TOOL_SICKLE"
+      },
+      {
+        "uniquename": "T4_2H_TOOL_KNIFE"
+      },
+      {
+        "uniquename": "T4_2H_TOOL_SIEGEHAMMER"
+      },
+      {
+        "uniquename": "T4_2H_TOOL_FISHINGROD"
+      },
+      {
+        "uniquename": "T4_2H_TOOL_HAMMER_AVALON"
+      },
+      {
+        "uniquename": "T4_2H_TOOL_AXE_AVALON"
+      },
+      {
+        "uniquename": "T4_2H_TOOL_PICK_AVALON"
+      },
+      {
+        "uniquename": "T4_2H_TOOL_SICKLE_AVALON"
+      },
+      {
+        "uniquename": "T4_2H_TOOL_KNIFE_AVALON"
+      },
+      {
+        "uniquename": "T4_2H_TOOL_SIEGEHAMMER_AVALON"
+      },
+      {
+        "uniquename": "T4_2H_TOOL_FISHINGROD_AVALON"
+      },
+      {
+        "uniquename": "T5_2H_TOOL_HAMMER"
+      },
+      {
+        "uniquename": "T5_2H_TOOL_AXE"
+      },
+      {
+        "uniquename": "T5_2H_TOOL_PICK"
+      },
+      {
+        "uniquename": "T5_2H_TOOL_SICKLE"
+      },
+      {
+        "uniquename": "T5_2H_TOOL_KNIFE"
+      },
+      {
+        "uniquename": "T5_2H_TOOL_SIEGEHAMMER"
+      },
+      {
+        "uniquename": "T5_2H_TOOL_FISHINGROD"
+      },
+      {
+        "uniquename": "T5_2H_TOOL_HAMMER_AVALON"
+      },
+      {
+        "uniquename": "T5_2H_TOOL_AXE_AVALON"
+      },
+      {
+        "uniquename": "T5_2H_TOOL_PICK_AVALON"
+      },
+      {
+        "uniquename": "T5_2H_TOOL_SICKLE_AVALON"
+      },
+      {
+        "uniquename": "T5_2H_TOOL_KNIFE_AVALON"
+      },
+      {
+        "uniquename": "T5_2H_TOOL_SIEGEHAMMER_AVALON"
+      },
+      {
+        "uniquename": "T5_2H_TOOL_FISHINGROD_AVALON"
+      },
+      {
+        "uniquename": "T6_2H_TOOL_HAMMER"
+      },
+      {
+        "uniquename": "T6_2H_TOOL_AXE"
+      },
+      {
+        "uniquename": "T6_2H_TOOL_PICK"
+      },
+      {
+        "uniquename": "T6_2H_TOOL_SICKLE"
+      },
+      {
+        "uniquename": "T6_2H_TOOL_KNIFE"
+      },
+      {
+        "uniquename": "T6_2H_TOOL_SIEGEHAMMER"
+      },
+      {
+        "uniquename": "T6_2H_TOOL_FISHINGROD"
+      },
+      {
+        "uniquename": "T6_2H_TOOL_HAMMER_AVALON"
+      },
+      {
+        "uniquename": "T6_2H_TOOL_AXE_AVALON"
+      },
+      {
+        "uniquename": "T6_2H_TOOL_PICK_AVALON"
+      },
+      {
+        "uniquename": "T6_2H_TOOL_SICKLE_AVALON"
+      },
+      {
+        "uniquename": "T6_2H_TOOL_KNIFE_AVALON"
+      },
+      {
+        "uniquename": "T6_2H_TOOL_SIEGEHAMMER_AVALON"
+      },
+      {
+        "uniquename": "T6_2H_TOOL_FISHINGROD_AVALON"
+      },
+      {
+        "uniquename": "T7_2H_TOOL_HAMMER"
+      },
+      {
+        "uniquename": "T7_2H_TOOL_AXE"
+      },
+      {
+        "uniquename": "T7_2H_TOOL_PICK"
+      },
+      {
+        "uniquename": "T7_2H_TOOL_SICKLE"
+      },
+      {
+        "uniquename": "T7_2H_TOOL_KNIFE"
+      },
+      {
+        "uniquename": "T7_2H_TOOL_SIEGEHAMMER"
+      },
+      {
+        "uniquename": "T7_2H_TOOL_FISHINGROD"
+      },
+      {
+        "uniquename": "T7_2H_TOOL_HAMMER_AVALON"
+      },
+      {
+        "uniquename": "T7_2H_TOOL_AXE_AVALON"
+      },
+      {
+        "uniquename": "T7_2H_TOOL_PICK_AVALON"
+      },
+      {
+        "uniquename": "T7_2H_TOOL_SICKLE_AVALON"
+      },
+      {
+        "uniquename": "T7_2H_TOOL_KNIFE_AVALON"
+      },
+      {
+        "uniquename": "T7_2H_TOOL_SIEGEHAMMER_AVALON"
+      },
+      {
+        "uniquename": "T7_2H_TOOL_FISHINGROD_AVALON"
+      },
+      {
+        "uniquename": "T8_2H_TOOL_HAMMER"
+      },
+      {
+        "uniquename": "T8_2H_TOOL_AXE"
+      },
+      {
+        "uniquename": "T8_2H_TOOL_PICK"
+      },
+      {
+        "uniquename": "T8_2H_TOOL_SICKLE"
+      },
+      {
+        "uniquename": "T8_2H_TOOL_KNIFE"
+      },
+      {
+        "uniquename": "T8_2H_TOOL_SIEGEHAMMER"
+      },
+      {
+        "uniquename": "T8_2H_TOOL_FISHINGROD"
+      },
+      {
+        "uniquename": "T8_2H_TOOL_HAMMER_AVALON"
+      },
+      {
+        "uniquename": "T8_2H_TOOL_AXE_AVALON"
+      },
+      {
+        "uniquename": "T8_2H_TOOL_PICK_AVALON"
+      },
+      {
+        "uniquename": "T8_2H_TOOL_SICKLE_AVALON"
+      },
+      {
+        "uniquename": "T8_2H_TOOL_KNIFE_AVALON"
+      },
+      {
+        "uniquename": "T8_2H_TOOL_SIEGEHAMMER_AVALON"
+      },
+      {
+        "uniquename": "T8_2H_TOOL_FISHINGROD_AVALON"
+      },
+      {
+        "uniquename": "T2_BAG"
+      },
+      {
+        "uniquename": "T3_BAG"
+      },
+      {
+        "uniquename": "T4_BAG"
+      },
+      {
+        "uniquename": "T5_BAG"
+      },
+      {
+        "uniquename": "T6_BAG"
+      },
+      {
+        "uniquename": "T7_BAG"
+      },
+      {
+        "uniquename": "T8_BAG"
+      },
+      {
+        "uniquename": "T4_BAG_INSIGHT"
+      },
+      {
+        "uniquename": "T5_BAG_INSIGHT"
+      },
+      {
+        "uniquename": "T6_BAG_INSIGHT"
+      },
+      {
+        "uniquename": "T7_BAG_INSIGHT"
+      },
+      {
+        "uniquename": "T8_BAG_INSIGHT"
+      },
+      {
+        "uniquename": "T2_CAPE"
+      },
+      {
+        "uniquename": "T3_CAPE"
+      },
+      {
+        "uniquename": "T4_CAPE"
+      },
+      {
+        "uniquename": "T5_CAPE"
+      },
+      {
+        "uniquename": "T6_CAPE"
+      },
+      {
+        "uniquename": "T7_CAPE"
+      },
+      {
+        "uniquename": "T8_CAPE"
+      },
+      {
+        "uniquename": "T4_CAPEITEM_FW_BRIDGEWATCH"
+      },
+      {
+        "uniquename": "T5_CAPEITEM_FW_BRIDGEWATCH"
+      },
+      {
+        "uniquename": "T6_CAPEITEM_FW_BRIDGEWATCH"
+      },
+      {
+        "uniquename": "T7_CAPEITEM_FW_BRIDGEWATCH"
+      },
+      {
+        "uniquename": "T8_CAPEITEM_FW_BRIDGEWATCH"
+      },
+      {
+        "uniquename": "T4_CAPEITEM_FW_FORTSTERLING"
+      },
+      {
+        "uniquename": "T5_CAPEITEM_FW_FORTSTERLING"
+      },
+      {
+        "uniquename": "T6_CAPEITEM_FW_FORTSTERLING"
+      },
+      {
+        "uniquename": "T7_CAPEITEM_FW_FORTSTERLING"
+      },
+      {
+        "uniquename": "T8_CAPEITEM_FW_FORTSTERLING"
+      },
+      {
+        "uniquename": "T4_CAPEITEM_FW_LYMHURST"
+      },
+      {
+        "uniquename": "T5_CAPEITEM_FW_LYMHURST"
+      },
+      {
+        "uniquename": "T6_CAPEITEM_FW_LYMHURST"
+      },
+      {
+        "uniquename": "T7_CAPEITEM_FW_LYMHURST"
+      },
+      {
+        "uniquename": "T8_CAPEITEM_FW_LYMHURST"
+      },
+      {
+        "uniquename": "T4_CAPEITEM_FW_MARTLOCK"
+      },
+      {
+        "uniquename": "T5_CAPEITEM_FW_MARTLOCK"
+      },
+      {
+        "uniquename": "T6_CAPEITEM_FW_MARTLOCK"
+      },
+      {
+        "uniquename": "T7_CAPEITEM_FW_MARTLOCK"
+      },
+      {
+        "uniquename": "T8_CAPEITEM_FW_MARTLOCK"
+      },
+      {
+        "uniquename": "T4_CAPEITEM_FW_THETFORD"
+      },
+      {
+        "uniquename": "T5_CAPEITEM_FW_THETFORD"
+      },
+      {
+        "uniquename": "T6_CAPEITEM_FW_THETFORD"
+      },
+      {
+        "uniquename": "T7_CAPEITEM_FW_THETFORD"
+      },
+      {
+        "uniquename": "T8_CAPEITEM_FW_THETFORD"
+      },
+      {
+        "uniquename": "T4_CAPEITEM_FW_CAERLEON"
+      },
+      {
+        "uniquename": "T5_CAPEITEM_FW_CAERLEON"
+      },
+      {
+        "uniquename": "T6_CAPEITEM_FW_CAERLEON"
+      },
+      {
+        "uniquename": "T7_CAPEITEM_FW_CAERLEON"
+      },
+      {
+        "uniquename": "T8_CAPEITEM_FW_CAERLEON"
+      },
+      {
+        "uniquename": "T4_CAPEITEM_HERETIC"
+      },
+      {
+        "uniquename": "T4_CAPEITEM_UNDEAD"
+      },
+      {
+        "uniquename": "T4_CAPEITEM_KEEPER"
+      },
+      {
+        "uniquename": "T4_CAPEITEM_MORGANA"
+      },
+      {
+        "uniquename": "T4_CAPEITEM_DEMON"
+      },
+      {
+        "uniquename": "T5_CAPEITEM_HERETIC"
+      },
+      {
+        "uniquename": "T5_CAPEITEM_UNDEAD"
+      },
+      {
+        "uniquename": "T5_CAPEITEM_KEEPER"
+      },
+      {
+        "uniquename": "T5_CAPEITEM_MORGANA"
+      },
+      {
+        "uniquename": "T5_CAPEITEM_DEMON"
+      },
+      {
+        "uniquename": "T6_CAPEITEM_HERETIC"
+      },
+      {
+        "uniquename": "T6_CAPEITEM_UNDEAD"
+      },
+      {
+        "uniquename": "T6_CAPEITEM_KEEPER"
+      },
+      {
+        "uniquename": "T6_CAPEITEM_MORGANA"
+      },
+      {
+        "uniquename": "T6_CAPEITEM_DEMON"
+      },
+      {
+        "uniquename": "T7_CAPEITEM_HERETIC"
+      },
+      {
+        "uniquename": "T7_CAPEITEM_UNDEAD"
+      },
+      {
+        "uniquename": "T7_CAPEITEM_KEEPER"
+      },
+      {
+        "uniquename": "T7_CAPEITEM_MORGANA"
+      },
+      {
+        "uniquename": "T7_CAPEITEM_DEMON"
+      },
+      {
+        "uniquename": "T8_CAPEITEM_HERETIC"
+      },
+      {
+        "uniquename": "T8_CAPEITEM_UNDEAD"
+      },
+      {
+        "uniquename": "T8_CAPEITEM_KEEPER"
+      },
+      {
+        "uniquename": "T8_CAPEITEM_MORGANA"
+      },
+      {
+        "uniquename": "T8_CAPEITEM_DEMON"
+      },
+      {
+        "uniquename": "T4_BACKPACK_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T4_BACKPACK_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T4_BACKPACK_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T4_BACKPACK_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T4_BACKPACK_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T4_BACKPACK_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T5_BACKPACK_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T5_BACKPACK_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T5_BACKPACK_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T5_BACKPACK_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T5_BACKPACK_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T5_BACKPACK_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T6_BACKPACK_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T6_BACKPACK_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T6_BACKPACK_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T6_BACKPACK_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T6_BACKPACK_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T6_BACKPACK_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T7_BACKPACK_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T7_BACKPACK_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T7_BACKPACK_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T7_BACKPACK_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T7_BACKPACK_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T7_BACKPACK_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T8_BACKPACK_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T8_BACKPACK_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T8_BACKPACK_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T8_BACKPACK_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T8_BACKPACK_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T8_BACKPACK_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T4_HEAD_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T4_ARMOR_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T4_SHOES_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T4_HEAD_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T4_ARMOR_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T4_SHOES_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T4_HEAD_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T4_ARMOR_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T4_SHOES_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T4_HEAD_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T4_ARMOR_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T4_SHOES_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T4_HEAD_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T4_ARMOR_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T4_SHOES_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T4_HEAD_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T4_ARMOR_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T4_SHOES_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T5_HEAD_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T5_ARMOR_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T5_SHOES_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T5_HEAD_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T5_ARMOR_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T5_SHOES_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T5_HEAD_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T5_ARMOR_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T5_SHOES_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T5_HEAD_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T5_ARMOR_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T5_SHOES_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T5_HEAD_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T5_ARMOR_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T5_SHOES_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T5_HEAD_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T5_ARMOR_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T5_SHOES_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T6_HEAD_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T6_ARMOR_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T6_SHOES_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T6_HEAD_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T6_ARMOR_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T6_SHOES_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T6_HEAD_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T6_ARMOR_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T6_SHOES_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T6_HEAD_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T6_ARMOR_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T6_SHOES_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T6_HEAD_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T6_ARMOR_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T6_SHOES_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T6_HEAD_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T6_ARMOR_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T6_SHOES_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T7_HEAD_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T7_ARMOR_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T7_SHOES_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T7_HEAD_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T7_ARMOR_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T7_SHOES_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T7_HEAD_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T7_ARMOR_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T7_SHOES_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T7_HEAD_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T7_ARMOR_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T7_SHOES_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T7_HEAD_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T7_ARMOR_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T7_SHOES_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T7_HEAD_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T7_ARMOR_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T7_SHOES_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T8_HEAD_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T8_ARMOR_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T8_SHOES_GATHERER_FIBER"
+      },
+      {
+        "uniquename": "T8_HEAD_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T8_ARMOR_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T8_SHOES_GATHERER_HIDE"
+      },
+      {
+        "uniquename": "T8_HEAD_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T8_ARMOR_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T8_SHOES_GATHERER_ORE"
+      },
+      {
+        "uniquename": "T8_HEAD_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T8_ARMOR_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T8_SHOES_GATHERER_ROCK"
+      },
+      {
+        "uniquename": "T8_HEAD_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T8_ARMOR_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T8_SHOES_GATHERER_WOOD"
+      },
+      {
+        "uniquename": "T8_HEAD_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T8_ARMOR_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T8_SHOES_GATHERER_FISH"
+      },
+      {
+        "uniquename": "T2_FURNITUREITEM_CHEST"
+      },
+      {
+        "uniquename": "T2_FURNITUREITEM_BED"
+      },
+      {
+        "uniquename": "T2_FURNITUREITEM_TABLE"
+      },
+      {
+        "uniquename": "T3_FURNITUREITEM_CHEST"
+      },
+      {
+        "uniquename": "T3_FURNITUREITEM_BED"
+      },
+      {
+        "uniquename": "T3_FURNITUREITEM_TABLE"
+      },
+      {
+        "uniquename": "T4_FURNITUREITEM_CHEST"
+      },
+      {
+        "uniquename": "T4_FURNITUREITEM_BED"
+      },
+      {
+        "uniquename": "T4_FURNITUREITEM_TABLE"
+      },
+      {
+        "uniquename": "T5_FURNITUREITEM_CHEST"
+      },
+      {
+        "uniquename": "T5_FURNITUREITEM_BED"
+      },
+      {
+        "uniquename": "T5_FURNITUREITEM_TABLE"
+      },
+      {
+        "uniquename": "T6_FURNITUREITEM_BED"
+      },
+      {
+        "uniquename": "T6_FURNITUREITEM_TABLE"
+      },
+      {
+        "uniquename": "T7_FURNITUREITEM_BED"
+      },
+      {
+        "uniquename": "T7_FURNITUREITEM_TABLE"
+      },
+      {
+        "uniquename": "T8_FURNITUREITEM_BED"
+      },
+      {
+        "uniquename": "T8_FURNITUREITEM_TABLE"
+      },
+      {
+        "uniquename": "T8_FURNITUREITEM_TROPHY_FISHING_BOSS"
+      },
+      {
+        "uniquename": "UNIQUE_HIDEOUT"
+      },
+      {
+        "uniquename": "T4_FURNITUREITEM_REPAIRKIT"
+      },
+      {
+        "uniquename": "T5_FURNITUREITEM_REPAIRKIT"
+      },
+      {
+        "uniquename": "T6_FURNITUREITEM_REPAIRKIT"
+      },
+      {
+        "uniquename": "T7_FURNITUREITEM_REPAIRKIT"
+      },
+      {
+        "uniquename": "T8_FURNITUREITEM_REPAIRKIT"
+      }
+    ]
+  },
+  {
+    "uniquename": "T8_STABLE",
+    "category": null,
+    "favoritedish": "T4_MEAL_STEW",
+    "items": [
+      {
+        "uniquename": "T3_MOUNT_HORSE"
+      },
+      {
+        "uniquename": "T4_MOUNT_HORSE"
+      },
+      {
+        "uniquename": "T5_MOUNT_HORSE"
+      },
+      {
+        "uniquename": "T6_MOUNT_HORSE"
+      },
+      {
+        "uniquename": "T7_MOUNT_HORSE"
+      },
+      {
+        "uniquename": "T8_MOUNT_HORSE"
+      },
+      {
+        "uniquename": "T5_MOUNT_ARMORED_HORSE"
+      },
+      {
+        "uniquename": "T6_MOUNT_ARMORED_HORSE"
+      },
+      {
+        "uniquename": "T7_MOUNT_ARMORED_HORSE"
+      },
+      {
+        "uniquename": "T8_MOUNT_ARMORED_HORSE"
+      },
+      {
+        "uniquename": "T3_MOUNT_OX"
+      },
+      {
+        "uniquename": "T4_MOUNT_OX"
+      },
+      {
+        "uniquename": "T5_MOUNT_OX"
+      },
+      {
+        "uniquename": "T6_MOUNT_OX"
+      },
+      {
+        "uniquename": "T7_MOUNT_OX"
+      },
+      {
+        "uniquename": "T8_MOUNT_OX"
+      },
+      {
+        "uniquename": "T6_MOUNT_DIREWOLF"
+      },
+      {
+        "uniquename": "T7_MOUNT_DIREBOAR"
+      },
+      {
+        "uniquename": "T7_MOUNT_SWAMPDRAGON"
+      },
+      {
+        "uniquename": "T7_MOUNT_SWAMPDRAGON_AVALON_BASILISK"
+      },
+      {
+        "uniquename": "T8_MOUNT_DIREBEAR"
+      },
+      {
+        "uniquename": "T4_MOUNT_GIANTSTAG"
+      },
+      {
+        "uniquename": "T6_MOUNT_GIANTSTAG_MOOSE"
+      },
+      {
+        "uniquename": "T8_MOUNT_HORSE_UNDEAD"
+      },
+      {
+        "uniquename": "T5_MOUNT_COUGAR_KEEPER"
+      },
+      {
+        "uniquename": "T8_MOUNT_COUGAR_KEEPER"
+      },
+      {
+        "uniquename": "T8_MOUNT_ARMORED_HORSE_MORGANA"
+      },
+      {
+        "uniquename": "T8_MOUNT_MAMMOTH_TRANSPORT"
+      },
+      {
+        "uniquename": "T8_MOUNT_MOABIRD_FW_BRIDGEWATCH_ELITE"
+      },
+      {
+        "uniquename": "T8_MOUNT_DIREBEAR_FW_FORTSTERLING_ELITE"
+      },
+      {
+        "uniquename": "T8_MOUNT_DIREBOAR_FW_LYMHURST_ELITE"
+      },
+      {
+        "uniquename": "T8_MOUNT_RAM_FW_MARTLOCK_ELITE"
+      },
+      {
+        "uniquename": "T8_MOUNT_SWAMPDRAGON_FW_THETFORD_ELITE"
+      },
+      {
+        "uniquename": "T8_MOUNT_GREYWOLF_FW_CAERLEON_ELITE"
+      },
+      {
+        "uniquename": "T5_MOUNT_MOABIRD_FW_BRIDGEWATCH"
+      },
+      {
+        "uniquename": "T5_MOUNT_DIREBEAR_FW_FORTSTERLING"
+      },
+      {
+        "uniquename": "T5_MOUNT_DIREBOAR_FW_LYMHURST"
+      },
+      {
+        "uniquename": "T5_MOUNT_RAM_FW_MARTLOCK"
+      },
+      {
+        "uniquename": "T5_MOUNT_SWAMPDRAGON_FW_THETFORD"
+      },
+      {
+        "uniquename": "T5_MOUNT_GREYWOLF_FW_CAERLEON"
+      }
+    ]
+  }
+]

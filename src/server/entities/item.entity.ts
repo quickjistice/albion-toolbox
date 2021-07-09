@@ -1,14 +1,13 @@
 import {
     Column,
     Entity,
-    JoinColumn,
-    JoinTable,
     ManyToMany,
     ManyToOne,
     OneToMany,
     PrimaryColumn,
     PrimaryGeneratedColumn,
 } from 'typeorm';
+import { Building } from './building.entity';
 
 class CraftingRequirments {
     @Column({ nullable: true })
@@ -63,6 +62,9 @@ export class Item {
         eager: true,
     })
     enchantments: CraftingEnchantment[];
+
+    @ManyToOne(() => Building, (building) => building.uniquename)
+    craftBuilding: Building;
 }
 
 @Entity()

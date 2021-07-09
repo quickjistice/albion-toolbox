@@ -1,10 +1,11 @@
-interface IFIlterMainCategoryDTOITem {
-    uniqname: string;
+interface IFIlterCategoryDTOITem {
+    uniquename: string;
     name: string;
+    description: string;
 }
 
 export interface IFilterDTO {
     selected: { mainCategory: string };
-    mainCategory: IFIlterMainCategoryDTOITem[];
-    tmp: any;
+    mainCategories: IFIlterCategoryDTOITem[];
+    categories: IFIlterCategoryDTOITem[];
 }

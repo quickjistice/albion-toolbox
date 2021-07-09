@@ -4,6 +4,7 @@ import { Item } from '../../entities/item.entity';
 import { Building } from '../../entities/building.entity';
 
 import * as items from './ao-parsed-data/items.json';
+import * as buildings from './ao-parsed-data/buildings.json';
 
 async function run() {
     const connection = await createConnection();
@@ -19,7 +20,7 @@ async function run() {
     await connection.getRepository(Building).delete({});
 
     // add new data
-    const res = [];
+    let res = [];
     const itemRepo = connection.getRepository(Item);
     for (const item of items) {
         const entity = itemRepo.create({
@@ -73,6 +74,14 @@ async function run() {
         res.push(entity);
     }
     await itemRepo.save(res);
+
+    const buildingRepo = await connection.getRepository(Building);
+    res = [];
+    for (const building of buildings) {
+        const entity = buildingRepo.create(building);
+        res.push(entity);
+    }
+    await buildingRepo.save(res);
 }
 
 run();

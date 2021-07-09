@@ -10,7 +10,7 @@ module.exports = {
     username: 'albion',
     password: process.env.PG_PASSWORD,
     database: 'albion',
-    entities: ['./src/server/entities/**/*.entity.ts'],
+    // entities: ['./src/server/entities/**/*.entity.ts'],
     // entities: ['./dist/server/entities/**/*.entity.js'],
     // entities: [],
     ssl: {

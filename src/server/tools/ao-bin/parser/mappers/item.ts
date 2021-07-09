@@ -1,30 +1,4 @@
-import { writeFileSync, readFileSync } from 'fs';
-import { resolve } from 'path';
-
-const categories = ['equipmentitem', 'weapon', 'consumableitem', 'simpleitem'];
-const result = [];
-
-const rawItemsData = readFileSync(
-    resolve(__dirname, 'ao-bin-data/items.json'),
-    'utf-8',
-);
-const rawItems = JSON.parse(rawItemsData);
-
-//equipmentitem,weapon,consumableitem
-for (const cat of categories) {
-    rawItems.items[cat].forEach((item) => {
-        if (checkCraftingItem(item)) {
-            result.push(mapItem(item));
-        }
-    });
-}
-
-writeFileSync(
-    resolve(__dirname, 'ao-parsed-data/items.json'),
-    JSON.stringify(result, null, 2),
-);
-
-function mapItem(item) {
+export function mapItem(item) {
     return {
         uniquename: item['@uniquename'],
         tier: item['@tier'],
@@ -77,10 +51,4 @@ function mapEnchantment(en) {
         enchantmentlevel: en['@enchantmentlevel'],
         craftingrequirements: mapCraftinRequirments(en.craftingrequirements),
     };
-}
-
-function checkCraftingItem(item) {
-    if (!item.craftingrequirements) return false;
-    if (item['@uniquename'].indexOf('QUESTITEM') === 1) return false;
-    return true;
 }

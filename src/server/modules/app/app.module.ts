@@ -10,6 +10,7 @@ import { FilterModule } from '../filter/filter.module';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { ItemModule } from '../item/item.module';
+import { BuildingModule } from '../building/building.module';
 
 @Module({
     imports: [
@@ -25,6 +26,7 @@ import { ItemModule } from '../item/item.module';
         LocalizationModule,
         FilterModule,
         ItemModule,
+        BuildingModule,
     ],
     controllers: [AppController],
     providers: [AppService],

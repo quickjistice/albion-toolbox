@@ -1,8 +1,8 @@
 import { Injectable } from '@nestjs/common';
 
-import { BuildingService } from 'src/server/providers/building/building.service';
 import { Localization } from 'src/server/providers/localization/localization.provider';
 
+import { BuildingService } from '../building/building.service';
 import { getMainCategory } from './utils/get-main.category';
 
 interface IGetFilterParams {
@@ -13,25 +13,37 @@ interface IGetFilterParams {
 export class FilterService {
     constructor(
         private localization: Localization,
-        private buildingsService: BuildingService,
+        private buildingService: BuildingService,
     ) {}
 
     async getFilter(params: IGetFilterParams) {
         const { mainCategory } = params;
-        const buildings = await this.buildingsService.getAll();
+        const buildings = await this.buildingService.getByCategory(
+            'CRAFT_ITEMS',
+        );
 
         return {
             selected: { mainCategory },
-            mainCategory: getMainCategory().map((uniqname) => {
-                const locale = this.localization.getLocallizedItem(uniqname);
+            mainCategories: getMainCategory().map((uniquename) => {
+                const locale = this.localization.getLocallizedItem(uniquename);
 
                 return {
-                    uniqname,
+                    uniquename,
                     name: locale.name,
                     description: locale.description,
                 };
             }),
-            tmp: buildings,
+            categories: buildings.map((building) => {
+                const locale = this.localization.getLocallizedItem(
+                    building.uniquename,
+                );
+
+                return {
+                    uniquename: building.uniquename,
+                    name: locale.name,
+                    description: locale.description,
+                };
+            }),
         };
     }
 }
