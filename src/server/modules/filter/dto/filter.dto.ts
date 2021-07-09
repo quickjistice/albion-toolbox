@@ -1,11 +1,20 @@
-interface IFIlterCategoryDTOITem {
+interface IFIlterCategoryITemDTO {
     uniquename: string;
     name: string;
     description: string;
 }
 
 export interface IFilterDTO {
-    selected: { mainCategory: string };
-    mainCategories: IFIlterCategoryDTOITem[];
-    categories: IFIlterCategoryDTOITem[];
+    filterType: {
+        items: IFIlterCategoryITemDTO[];
+        value: IFIlterCategoryITemDTO;
+    };
+    categories: {
+        items: IFIlterCategoryITemDTO[];
+        value: IFIlterCategoryITemDTO;
+    };
+    subcategories: {
+        items: IFIlterCategoryITemDTO[];
+        value: IFIlterCategoryITemDTO;
+    };
 }

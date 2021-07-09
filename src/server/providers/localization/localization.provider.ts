@@ -11,7 +11,10 @@ enum Locale {
 @Global()
 @Injectable()
 export class Localization {
-    getLocallizedItem(uniqname: string, locale = 'ru') {
+    getLocallizedItem(
+        uniqname: string,
+        locale = 'ru',
+    ): { name: string; description: string } {
         const item = stringsCache[uniqname];
 
         if (!item)
