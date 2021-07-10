@@ -11,7 +11,9 @@ export const parseBuildings = (buildings) => {
 
 function checkCraftingItem(item) {
     if (!item.craftingrequirements) return false;
-    if (item['@uniquename'].indexOf('QUESTITEM') === 1) return false;
+    if (item['@uniquename'].indexOf('QUESTITEM') !== -1) return false;
+    if (item['@uniquename'].indexOf('PROTOTYPE') !== -1) return false;
+    if (item['@uniquename'].indexOf('PERFTEST') !== -1) return false;
     return true;
 }
 

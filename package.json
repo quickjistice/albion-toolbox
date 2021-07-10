@@ -20,7 +20,8 @@
         "test:debug": "node --inspect-brk -r tsconfig-paths/register -r ts-node/register node_modules/.bin/jest --runInBand",
         "test:e2e": "jest --config ./test/jest-e2e.json",
         "typeorm": "node --require ts-node/register ./node_modules/typeorm/cli.js",
-        "ao-bin:parse": "ts-node ./src/server/tools/ao-bin/convert-bin-to-db.ts"
+        "ao-bin:parse": "ts-node ./src/server/tools/ao-bin/convert-bin-to-db.ts",
+        "ao-bin:bd": "npm run typeorm -- schema:sync && npx ts-node src/server/tools/ao-bin/recreate-db.ts"
     },
     "dependencies": {
         "@nestjs/common": "^7.6.15",

@@ -1,16 +1,14 @@
-import * as items from './translations/items.json';
+import * as items from './translations/localization.json';
 import * as custom from './translations/custom.json';
 
 export const getChachedStrings = function () {
-    // @ts-ignore
     const itemsCache = items.reduce((acc, item) => {
-        acc[item.UniqueName] = item;
+        acc[item.uniquename] = item;
         return acc;
     }, {});
 
-    // @ts-ignore
     const customCache = custom.reduce((acc, item) => {
-        acc[item.UniqueName] = item;
+        acc[item.uniquename] = item;
         return acc;
     }, {});
 

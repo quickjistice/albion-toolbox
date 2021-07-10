@@ -1,14 +1,11 @@
 import { Injectable } from '@nestjs/common';
+import { FILTER_TYPES } from 'server/constants/filter-type';
+import { FilterType } from 'src/@types/common';
 
 import { Localization } from 'src/server/providers/localization/localization.provider';
 
 import { BuildingService } from '../building/building.service';
-import {
-    FILTER_TYPE,
-    ICategoryItem,
-    IGetFilterParams,
-} from './components/@types';
-import { FILTER_TYPES } from './components/constants';
+import { ICategoryItem } from './components/@types';
 
 @Injectable()
 export class FilterService {
@@ -17,7 +14,7 @@ export class FilterService {
         private buildingService: BuildingService,
     ) {}
 
-    async getFilter(params: IGetFilterParams) {
+    async getFilter(params: any) {
         const { filterType } = params;
         const { categories, subCategories } = await this.getCategories(
             filterType,
@@ -39,9 +36,9 @@ export class FilterService {
         };
     }
 
-    private async getCategories(filterType: FILTER_TYPE) {
+    private async getCategories(filterType: FilterType) {
         switch (filterType) {
-            case FILTER_TYPE.CRAFT_BUILDING:
+            case 'FILTER_TYPE_SHOPS':
                 return this.getCraftBuildingCategories();
             default:
                 return { categories: [], subCategories: [] };
@@ -49,7 +46,7 @@ export class FilterService {
     }
 
     private async getCraftBuildingCategories() {
-        const buildings = await this.buildingService.getByCategory(
+        const buildings = await this.buildingService.findByCategory(
             'CRAFT_ITEMS',
         );
 

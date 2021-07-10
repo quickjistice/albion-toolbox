@@ -11,6 +11,7 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { ItemModule } from '../item/item.module';
 import { BuildingModule } from '../building/building.module';
+import { CraftProfitListModule } from '../craft-profit-list/craft-profit-list.module';
 
 @Module({
     imports: [
@@ -27,6 +28,7 @@ import { BuildingModule } from '../building/building.module';
         FilterModule,
         ItemModule,
         BuildingModule,
+        CraftProfitListModule,
     ],
     controllers: [AppController],
     providers: [AppService],

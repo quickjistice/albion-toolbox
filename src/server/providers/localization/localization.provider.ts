@@ -1,31 +1,48 @@
 import { Injectable, Global } from '@nestjs/common';
+
 import { getChachedStrings } from './get-cached-strings';
 
 const stringsCache = getChachedStrings();
 
-enum Locale {
-    en = 'EN-US',
-    ru = 'RU-RU',
+export enum Locale {
+    EN = 'EN-US',
+    RU = 'RU-RU',
+}
+
+export interface ILocalizedItem {
+    uniquename: string;
+    name: string;
+    description: string;
 }
 
 @Global()
 @Injectable()
 export class Localization {
     getLocallizedItem(
-        uniqname: string,
-        locale = 'ru',
+        uniquename: string,
+        locale = Locale.RU,
     ): { name: string; description: string } {
-        const item = stringsCache[uniqname];
+        const item = stringsCache[uniquename];
 
         if (!item)
             return {
-                name: uniqname,
-                description: uniqname + '_DESCRIPTION',
+                name: uniquename,
+                description: uniquename + '_DESC',
             };
 
         return {
-            name: item.LocalizedNames[Locale[locale]],
-            description: item.LocalizedDescriptions[Locale[locale]],
+            name: item.name[locale],
+            description: item.description[locale],
+        };
+    }
+
+    createLocalizedItem(uniquename: string): ILocalizedItem {
+        const locale = this.getLocallizedItem(uniquename);
+
+        return {
+            uniquename,
+            name: locale.name,
+            description: locale.description,
         };
     }
 }

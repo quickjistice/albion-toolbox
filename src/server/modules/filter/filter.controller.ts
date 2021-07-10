@@ -1,6 +1,6 @@
 import { Controller, Get, Req } from '@nestjs/common';
-import { FILTER_TYPE } from 'dist/server/modules/filter/utils/get-filter-types';
 import { Request } from 'express';
+import { FilterType } from 'src/@types/common';
 
 import { IFilterDTO } from './dto/filter.dto';
 import { FilterService } from './filter.service';
@@ -12,7 +12,7 @@ export class FilterController {
     @Get('/')
     async getFilter(@Req() req: Request): Promise<IFilterDTO> {
         const { m } = req.query;
-        const filterType = m as FILTER_TYPE;
+        const filterType = m as FilterType;
 
         return await this.filterService.getFilter({ filterType });
     }
