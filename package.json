@@ -38,6 +38,7 @@
         "dotenv": "^8.6.0",
         "history": "^4.10.0",
         "pg": "^8.6.0",
+        "query-string": "^7.0.1",
         "react-redux": "^7.2.4",
         "react-router-dom": "^5.2.0",
         "redux-devtools-extension": "^2.13.9",

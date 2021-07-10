@@ -15,10 +15,10 @@ export default function configureStore(preloadedState) {
         rootReducer(history),
         preloadedState,
         composeWithDevTools(
+            applyMiddleware(epicMiddleware),
             applyMiddleware(
                 routerMiddleware(history),
-            ),
-            applyMiddleware(epicMiddleware),
+            )
         ),
     );
 

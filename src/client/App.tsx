@@ -4,6 +4,7 @@ import { Route, Switch } from 'react-router'
 import { Main } from "./pages/main/main";
 import { Calculator } from "./pages/calculator/calculator";
 import { Navigation } from "./bloks/navigation/navigation";
+import {PagePath} from "./types/pages";
 
 interface Props {}
 
@@ -14,11 +15,11 @@ class App extends React.Component<Props> {
                 <Navigation />
                 <Switch>
                     <Route
-                        path="/calculator"
+                        path={PagePath.calculator}
                         component={Calculator}
                     />
                     <Route
-                        path="/"
+                        path={PagePath.main}
                         component={Main}
                     />
                 </Switch>

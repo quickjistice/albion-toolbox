@@ -1,10 +1,10 @@
 import * as React from 'react';
-import { CraftFilter } from "../../bloks/craftFilter/craftFilter";
+import { CraftFilters } from "../../bloks/craftFilters/craftFilters";
 
 export const Calculator = () => {
     return (
         <div>
-            <CraftFilter />
+            <CraftFilters />
         </div>
     )
 }

@@ -5,6 +5,7 @@ import { createStyles, fade, Theme, makeStyles } from '@material-ui/core/styles'
 import SearchIcon from '@material-ui/icons/Search';
 import { useDispatch } from "react-redux";
 import { push } from "connected-react-router";
+import {PagePath} from "../../types/pages";
 
 const useStyles = makeStyles((theme: Theme) =>
     createStyles({
@@ -74,7 +75,7 @@ export const Navigation = () => {
                     <Button
                         color="inherit"
                         onClick={() => {
-                            dispatch(push('/'));
+                            dispatch(push(PagePath.main));
                         }}
                     >
                         {'Main'}
@@ -82,7 +83,7 @@ export const Navigation = () => {
                     <Button
                         color="inherit"
                         onClick={() => {
-                            dispatch(push('/calculator'));
+                            dispatch(push(PagePath.calculator));
                         }}
                     >
                         {'calculator'}
